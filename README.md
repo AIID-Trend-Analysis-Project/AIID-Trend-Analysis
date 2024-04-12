@@ -85,3 +85,7 @@ Glossary: term index
 Methodology Appendix: technical details, here we will include more of our graphs and data
 
 References and Further Reading: articles and reports we read and took inspiration from.
+
+## Contact Information
+
+by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian
