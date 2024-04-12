@@ -70,6 +70,14 @@ If a new check box could be added to the AIID website that allows the submitter 
 Looking Forward: As AI becomes more ingrained into our daily lives, the need to objectively look at the technology of the future is greater than ever.
 * [Flair](https://github.com/flairNLP/flair) allows applying state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.
 
+## Potential Next Steps section 
+
+Potential next steps include refining the analysis to uncover deeper insights, exploring additional NLP techniques. Explore ensemble modeling approaches to enhance sentiment analysis accuracy. Recommendations may also be made for improving the indexing of incident reports in the AIID and tracking discourse about AI and related harm more effectively. Expand the scope of data collection to include a broader range of sources, languages, and regions. This will provide a more comprehensive understanding of global perspectives on AI-related incidents and trends.Explore techniques for detecting and mitigating biases in media coverage of AI incidents. This could involve developing algorithms to identify biased language, assessing the impact of bias on public perception, and implementing strategies to promote balanced reporting.Analyzing cross-domain influences on media coverage can provide a more holistic understanding of the socio-cultural factors shaping perceptions of AI.
+
+## Risk Considerations section
+
+One potential risk is that the dataset may not contain sufficient information to adequately answer the research questions. In such cases, adjustments to the scope of the analysis or exploration of additional data sources may be necessary. Risk of bias in media reporting may influence the accuracy of sentiment analysis and trend identification.Ethical considerations arise regarding data privacy and consent in analyzing journalistic content. Additionally, potential challenges exist in interpreting and contextualizing findings within the broader landscape of AI research and development. Other risk considerations include the potential for algorithmic biases in the NLP model used for sentiment analysis, the risk of misinterpretation of results due to complex linguistic nuances, and the possibility of unintended consequences stemming from recommendations based on the analysis. Furthermore, there may be risks associated with relying solely on media reports for data analysis, such as incomplete or inaccurate information leading to flawed conclusions. 
+
 ## Supporting Sections
 
 Glossary: term index
