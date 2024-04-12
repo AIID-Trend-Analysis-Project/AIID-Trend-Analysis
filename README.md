@@ -1,6 +1,7 @@
 # AIID-Trend-Analysis
 
-##Introduction
+## Introduction
+
 The year is 2014, you turn on the news, Ukraine is at war with Russia, there is a conflict between Israel and Hamas, and Tesla  just released their new AI powered  self-driving car…and people think it’s pretty cool. Ten years in the future, while some things have remained similar, the rhetoric surrounding AI is constantly at change. 
 
 ![sentiments over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/f8f5dd89-6f32-4373-99e3-995fa8030e8b)
@@ -13,7 +14,8 @@ This study aims to analyze just how the sentiment and subjectivity trends have c
 
 Just as we can identify when a news article around politics is leaning towards a certain agenda or bias, there really hasn’t been much awareness and research done on this end for AI reporting. By using the AI incidents database, our project aims to take the first steps in identifying these trends over time, and shine a light on how we should be viewing all the ever rising amount of news surrounding AI.
 
-##Methodology
+## Methodology
+
 This project is realizable with the help of the AI incidents database. Currently, the AIID Dataset is the largest human curated and labeled resources of AI incidents with weekly updates to the incidents and reports. The data comes from a wide range of sources, consisting from news outlets, social media, forums, etc. 
 
 ![Most common sources](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/e09bd069-3bff-490c-a44c-013f0c038cea)
@@ -23,25 +25,38 @@ Explanation of tokenization
 Explanation of coherence
 Explanation of topic modeling
 
-Explanation of Bert and Embeddings
-
+#### Explanation of Bert and Embeddings
+* [BERT (Bidirectional Encoder Representations from Transformers)](https://github.com/google-research/bert) - is a new method of pre-training language representations which obtains state-of-the-art results on a wide array of Natural Language Processing (NLP) tasks.
+  
 Explanation of UMAP
-Explanation of HDBSCAN
 
-Explanation of Vader Sentiment
-Explanation of Textblob Subjectivity
+#### Explanation of HDBSCAN
+* [HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise)](https://github.com/scikit-learn-contrib/hdbscan) - performs DBSCAN over varying epsilon values and integrates the result to find a clustering that gives the best stability over epsilon. This allows HDBSCAN to find clusters of varying densities (unlike DBSCAN), and be more robust to parameter selection.
+  
+#### Explanation of Vader Sentiment
+* [VADER (Valence Aware Dictionary and Sentiment Reasoner)](https://github.com/cjhutto/vaderSentiment) - is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media.
 
-##The Journey Through Data: Narrating the Insights
+  
+#### Explanation of Textblob Subjectivity
+* [TextBlob](https://textblob.readthedocs.io/en/dev/) 
+Textblob sentiment analyzer returns two properties for a given input sentence: 
+  **Polarity** is a float that lies between [-1,1], -1 indicates negative sentiment and +1 indicates positive sentiments. 
+  **Subjectivity** is also a float which lies in the range of [0,1]. Subjective sentences generally refer to personal opinion, emotion, or judgment. 
+
+## The Journey Through Data: Narrating the Insights
+
 Visualization and Explanation of the Cluster diagram: what are the major clusters, how have the clusters shifted over time, which are the clusters of greatest interest, analysis specific topic’s subjectivity over time
 Visualization of Sentiment Over Time: Plots of the clusters over time with sentiment score, top 10 most interesting
 Interpreting the Visuals: Show the most interesting key findings, and the clusters of interest, can we identify key dates that are important to ai reporting across the time period
 Stories Behind the Data: For each significant trend or pattern, narrate the possible underlying reasons, referencing specific AI topics or incidents where applicable.
 
-##Making It Relevant: Connecting With the Audience
+## Making It Relevant: Connecting With the Audience
+
 Implications for the AI Community: The understanding of trends in reporting is important for the AI community because it determines support from the public, and how our technologies are influencing people, not just as a product, but psychologically. What do people want to see more of? What is the media negative about? What are the new trends that are appearing?
 What It Means for the Public: Explain the significance of these trends for the general public, including how sentiment in AI reporting might affect public opinion and awareness.
 
-##Conclusion: Wrapping Up with Actionable Insights
+## Conclusion: Wrapping Up with Actionable Insights
+
 Recap of Key Findings: Summarize key findings
 Call to Action: As the next step, we suggest the AIID create some simple human metrics when submitting articles.
 The packages we have currently used are not tooled for the specific task
@@ -49,7 +64,8 @@ If a new check box could be added to the AIID website that allows the submitter 
 Looking Forward: As AI becomes more ingrained into our daily lives, the need to objectively look at the technology of the future is greater than ever.
 * [Flair](https://github.com/flairNLP/flair) allows applying state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.
 
-##Supporting Sections
+## Supporting Sections
+
 Glossary: term index
 Methodology Appendix: technical details, here we will include more of our graphs and data
 References and Further Reading: articles and reports we read and took inspiration from.
