@@ -17,12 +17,14 @@ Just as we can identify when a news article around politics is leaning towards a
 
 ## Methodology
 
-This project is realizable with the help of the [AI Incident Database](https://incidentdatabase.ai). Currently, the AIID Dataset is the largest human curated and labeled resources of AI incidents with weekly updates to the incidents and reports. The data comes from a wide range of sources, consisting from news outlets, social media, forums, etc. 
+This project is realizable with the help of the [AI Incident Database](https://incidentdatabase.ai). Currently, the AIID Dataset is the largest human curated and labeled resources of AI incidents with weekly updates to the incidents and reports. The data comes from a wide range of sources, consisting from news outlets, social media, forums, etc.
+
+* Data Collection: With the help of volunteers from the AI Incident database, our analysis is done using the weekly updated reports. 
+(Complete dataset available at: Main page of [AI Incident Database ](https://incidentdatabase.ai) → scroll down to the left bottom → [Download Complete Database](https://incidentdatabase.ai/research/snapshots/)
 
 ![Most common sources](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/e09bd069-3bff-490c-a44c-013f0c038cea)
 
-Data Collection: With the help of volunteers from the AI Incident database, our analysis is done using the weekly updated reports. 
-(Complete dataset available at: Main page of [AI Incident Database ](https://incidentdatabase.ai) → scroll down to the left bottom → [Download Complete Database](https://incidentdatabase.ai/research/snapshots/)
+
 
 Explanation of tokenization
 
