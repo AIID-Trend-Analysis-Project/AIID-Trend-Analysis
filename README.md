@@ -69,4 +69,3 @@ Looking Forward: As AI becomes more ingrained into our daily lives, the need to 
 Glossary: term index
 Methodology Appendix: technical details, here we will include more of our graphs and data
 References and Further Reading: articles and reports we read and took inspiration from.
-
