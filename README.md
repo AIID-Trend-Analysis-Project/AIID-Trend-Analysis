@@ -20,6 +20,9 @@ This project is realizable with the help of the AI incidents database. Currently
 
 ![Most common sources](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/e09bd069-3bff-490c-a44c-013f0c038cea)
 
+Data Collection: With the help of volunteers from the AI Incident database, our analysis is done using the weekly updated reports. 
+(Complete dataset available at: Main page of [AI Incident Database ](https://incidentdatabase.ai) → scroll down to the left bottom → [Download Complete Database](https://incidentdatabase.ai/research/snapshots/)
+
 Explanation of tokenization
 
 Explanation of coherence
@@ -67,5 +70,7 @@ Looking Forward: As AI becomes more ingrained into our daily lives, the need to 
 ## Supporting Sections
 
 Glossary: term index
+
 Methodology Appendix: technical details, here we will include more of our graphs and data
+
 References and Further Reading: articles and reports we read and took inspiration from.
