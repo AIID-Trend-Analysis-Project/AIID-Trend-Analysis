@@ -18,4 +18,11 @@ This project is realizable with the help of the AI incidents database. Currently
 
 ![Most common sources](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/e09bd069-3bff-490c-a44c-013f0c038cea)
 
-
+Explanation of tokenization
+Explanation of coherence
+Explanation of topic modeling
+Explanation of Bert and Embeddings
+Explanation of UMAP
+Explanation of HDBSCAN
+Explanation of Vader Sentiment
+Explanation of Textblob Subjectivity
