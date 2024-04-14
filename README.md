@@ -162,7 +162,7 @@ Topic Representation: Each topic identified by LDA is characterized by words tha
 
 Importance: Identifying topics helps in understanding the main themes in large volumes of text without needing to read them in detail.
 
-###Determining the Optimal Number of Topics
+### Determining the Optimal Number of Topics
 Tools Used: gensim provides ways to compute LDA models and coherence scores.
 What Happens: Deciding how many topics best represent the data.
 
@@ -180,7 +180,7 @@ Embedding Vectors: BERT outputs vectors (lists of numbers) for each word, which 
 
 Importance: These embeddings are crucial for allowing machines to understand language in a more human-like way, enabling more complex text analysis.
 
-###Clustering Using Embeddings
+### Clustering Using Embeddings
 Tools Used: UMAP is used for reducing the dimensionality of the embeddings and HDBSCAN is used for performing the actual clustering based on the density of data points.
 What Happens: Documents are grouped based on their semantic similarities, which are captured through embeddings, to uncover underlying patterns or themes.
 
