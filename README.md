@@ -60,6 +60,8 @@ The top three active clusters are lighting up the AI universe like a digital bon
 ![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
 
 While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag.Average Vader Sentiment: -0.15 | Average Subjectivity: -0.13. Some folks are all hyped up about the possibilities, while others are a bit skeptical. 
+![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/16f43b37-860a-4c1a-bce8-16e52023a694)
+
 
 ![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
 
