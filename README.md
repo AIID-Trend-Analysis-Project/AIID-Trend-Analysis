@@ -4,16 +4,20 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 
 ## Introduction
 
-The year is 2014, you turn on the news, Ukraine is at war with Russia, there is a conflict between Israel and Hamas, and Tesla  just released their new AI powered  self-driving car…and people think it’s pretty cool. Ten years in the future, while some things have remained similar, the rhetoric surrounding AI is constantly at change. 
+Almost everyone is talking about AI since OpenAI’s public launch of ChatGPT, AI has become one of the trendiest topics taking over every facet of our lives, but have you ever wondered when did AI enter the public consciousness? How has opinion changed on the topic over time? What topics are falling in and out of the news cycle? How is the sentiment and subjectivity around AI reporting? As we can identify when a news article around politics is leaning towards a certain agenda or bias, there really hasn’t been much awareness and research done on this end for AI reporting. 
+
+By answering these questions, the project aims to computationally analyze the changing trends and rhetoric in AI journalism using data from the AI Incident Database (AIID). By leveraging natural language processing (NLP) techniques such as topic modeling, BERT, sentiment analysis, and embedding, the goal is to uncover insights into how the media reports incidents and harms related to AI over time. 
+
+Introduction to the challenges and importance of analyzing media coverage of AI, explanation of the need for sentiment analysis in understanding public perception and overview of the specific research questions addressed in the project are the main problem understandings dealt here.
+
+By examining over 600 incident reports indexed by AIID, the project seeks to understand shifts in sentiment, language usage, and thematic trends in media coverage surrounding AI systems. The findings will not only benefit the AIID but also inform stakeholders in AI safety, governance, and compliance.
+
 
 ![sentiments over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/f8f5dd89-6f32-4373-99e3-995fa8030e8b)
 
 
-This study aims to analyze just how the sentiment and subjectivity trends have changed surrounding the reporting of AI technologies and incidents. On a broader scale, What topics are falling in and out of the news cycle? How is the sentiment and subjectivity around AI reporting? For a more nuanced answer, can we identify what sites and sources are most prominent in the AI reporting space, and how they differ in sentiment? What about the most prominent individuals who report in this space? Who are they and what are their views like?
-
 ![Reports over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/ce0de493-8b2d-4c2b-b438-95cda4983986)
 
-Just as we can identify when a news article around politics is leaning towards a certain agenda or bias, there really hasn’t been much awareness and research done on this end for AI reporting. By using the AI incidents database, our project aims to take the first steps in identifying these trends over time, and shine a light on how we should be viewing all the ever rising amount of news surrounding AI.
 
 ## Data Insights
 ### Cluster Analysis
@@ -40,6 +44,16 @@ From 2017 to 2021, the focus of reports shifted from digital and geographic issu
 
 ![2022 2023 CLusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/cceedf11-4338-4154-8b82-a34bf9e2d9ee)
 The introduction of ChatGPT in 2022 saw the formation of multiple new clusters within the dataset. As the attention of ChatGPT entered the public eye, It seems to have had a ripple effect on Large Language Models (LLMs) and chatbots, as well as adjacent technologies such as deepfakes and misinformation bots.
+
+
+![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
+The 3 most prominent individual authors are BBC News, James Vincent, and Reuters. The average VADER and Textblob Subjetivity scores are shown on the chart above. 
+
+![Top 3 Cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/eb4ca9ef-8d2e-490b-aa5a-26c913e58d9c)
+Among these 3 authors, the most active clusters are -1, 6, and 40. The average VADER and Textblob Subjetivity scores of each cluster are shown on the chart above.
+
+![Top 10 topics](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/4bffcd38-a6fb-4b74-a37f-70e05cfdba85)
+Among these 3 authors, the top 10 keywords topics are illustrate as above. 
 
 ## Making It Relevant: Connecting With the Audience
 
@@ -209,15 +223,21 @@ Animation Execution and Display: The animation is rendered, showing how clusters
 
 Importance: The dynamic visualization enables viewers to observe and understand temporal patterns and cluster dynamics visually, which is crucial for identifying trends and making informed decisions based on evolving data landscapes.
 
-### Explanation of Vader Sentiment
-* [VADER (Valence Aware Dictionary and Sentiment Reasoner)](https://github.com/cjhutto/vaderSentiment) - is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media.
+### Explanation of Sentiment Analysis
+Sentiment analysis is one of the most widely known Natural Language Processing (NLP) tasks that determine the emotional value of a given expression in natural language. It usually helps a business to understand the social sentiment of their brand, product or service while monitoring online conversations. Here with the use of sentiment analysis, we are able to observe sentiment among AI incidents over time. It is essentially a multiclass text classification where the given input text is classified into positive, neutral, or negative sentiment.
 
+### Explanation of Vader Sentiment
+* [VADER (Valence Aware Dictionary and Sentiment Reasoner)](https://github.com/cjhutto/vaderSentiment) - is a lexicon and rule-based sentiment analyzer that specifically attuned to social media sentiment expression. 
+Vader sentiment returns the probability of a given input sentence to be compound, positive, negative, and neutral by using a list of lexical features (e.g. word) according to their semantic orientation to calculate the text sentiment. 
+The limitation of VADER is that the method only focuses on individual words and completely ignores the context in which it is used. 
   
 #### Explanation of Textblob Subjectivity
 * [TextBlob](https://textblob.readthedocs.io/en/dev/) 
 Textblob sentiment analyzer returns two properties for a given input sentence: 
   **Polarity** is a float that lies between [-1,1], -1 indicates negative sentiment and +1 indicates positive sentiments. 
-  **Subjectivity** is also a float which lies in the range of [0,1]. Subjective sentences generally refer to personal opinion, emotion, or judgment. 
+  **Subjectivity** is a float which lies in the range of [0,1]. Closer to 1 means the most subjective while closer to 0 means the most objective. Subjective sentences generally refer to personal opinion, emotion, or judgment. 
+The limitation of TextBlob is that it will only consider words and phrases that it can assign polarity to and averages to get the final score, ignoring the words that it doesn’t know.
+
 
 
 References and Further Reading: articles and reports we read and took inspiration from.
