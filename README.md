@@ -58,7 +58,8 @@ The top three active clusters are lighting up the AI universe like a digital bon
  Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side.Average Vader Sentiment: -0.52 | Average Subjectivity: -0.17. Seems like not everyone's convinced that self-driving cars are ready for prime time. But hey, that's the beauty of a good debate, right?
  
 ![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
- While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag.Average Vader Sentiment: -0.15 | Average Subjectivity: -0.13. Some folks are all hyped up about the possibilities, while others are a bit skeptical. 
+
+While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag.Average Vader Sentiment: -0.15 | Average Subjectivity: -0.13. Some folks are all hyped up about the possibilities, while others are a bit skeptical. 
 
 ![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
 
