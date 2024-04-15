@@ -45,6 +45,10 @@ From 2017 to 2021, the focus of reports shifted from digital and geographic issu
 ![2022 2023 CLusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/cceedf11-4338-4154-8b82-a34bf9e2d9ee)
 The introduction of ChatGPT in 2022 saw the formation of multiple new clusters within the dataset. As the attention of ChatGPT entered the public eye, It seems to have had a ripple effect on Large Language Models (LLMs) and chatbots, as well as adjacent technologies such as deepfakes and misinformation bots.
 
+While we dive into the nitty-gritty, let's take a gander at the top five source domains that are setting the stage on fire with their hot takes and sizzling reports.
+First up on the podium, we've got theguardian.com strutting its stuff with a whopping 122 incidents to its name. The Guardian ain't pulling no punches when it comes to AI chatter, and boy, do they know how to stir the pot. Next in line, we've got theverge.com stepping into the ring with 82 incidents of its own. If there's one thing The Verge knows how to do, it's capturing the pulse of the tech scene, and AI is no exception.
+
+Sliding into third place, we've got nytimes.com holding its ground with 78 incidents. The New York Times isn't just about breaking news; it's about breaking barriers, and AI is just another notch on its journalistic belt. Not too far behind, we've got washingtonpost.com making waves with 60 incidents. The Washington Post isn't afraid to tackle the tough topics, and when it comes to AI, they're diving headfirst into the digital deep end. And we've also got wired.com rounding out the top five with 55 incidents. Wired knows how to wire up a story, and when it comes to AI, they're plugged in and ready to roll.
 
 ![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
 
