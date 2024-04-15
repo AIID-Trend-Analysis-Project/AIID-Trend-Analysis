@@ -50,7 +50,7 @@ First up on the podium, we've got theguardian.com strutting its stuff with a who
 ![Top 5 domains](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/f7873644-0987-43f8-9fca-d0ffd35f8ba2)
 Sliding into third place, we've got nytimes.com holding its ground with 78 incidents. The New York Times isn't just about breaking news; it's about breaking barriers, and AI is just another notch on its journalistic belt. Not too far behind, we've got washingtonpost.com making waves with 60 incidents. The Washington Post isn't afraid to tackle the tough topics, and when it comes to AI, they're diving headfirst into the digital deep end. And we've also got wired.com rounding out the top five with 55 incidents. Wired knows how to wire up a story, and when it comes to AI, they're plugged in and ready to roll.
 
-The top three active clusters are lighting up the AI universe like a digital bonfire!
+The most three active clusters are lighting up the AI universe like a digital bonfire!
 ![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/daa030c3-e373-4df9-86e4-e40f868f6162)
 
