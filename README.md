@@ -62,6 +62,7 @@ Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving ca
 While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag. Some folks are all hyped up about the possibilities, while others are a bit skeptical. 
 
 
+
 ![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
 
 The 3 most prominent individual authors are BBC News, James Vincent, and Reuters. The average VADER and Textblob Subjetivity scores are shown on the chart above. James Vincent seems to have the most positive VADER sentiment score while other two authors have relatively negative VADER sentiment score.
