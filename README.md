@@ -71,7 +71,7 @@ Among these 3 authors, the most active clusters are -1, 6, and 40. The average V
 
 ![Top 10 topics](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/4bffcd38-a6fb-4b74-a37f-70e05cfdba85)
 
-Among these 3 authors, the top 10 keywords topics are illustrate as above. They are contributing a lot of AI trendy topics such as Tesla, AI Images, Face IDs, Chatgpt, and etcs. 
+Among these 3 authors, the top 10 keywords topics are illustrated as above. They are contributing a lot of AI trendy topics such as Tesla, AI Images, Face IDs, Chatgpt, and etcs. 
 
 ## Making It Relevant: Connecting With the Audience
 
