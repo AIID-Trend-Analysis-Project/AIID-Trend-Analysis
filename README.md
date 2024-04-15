@@ -79,11 +79,9 @@ While zooming into Cluster 46, imagine a bunch of tech geeks deep-diving into vo
 |    ai, model, chatgpt     |    125    |
 | use, recognition, facial  |    116    |
 |  facebook, content, user  |    115    |
-| shotspotter, debt, police |    97     |
-|    use, company, work     |    88     |
-|   algorithm, use, data    |    86     |
-
-![keywords](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/71f7b5d6-f320-4d0f-ab6a-a88d6a7b3b32)
+| shotspotter, debt, police |     97    |
+|    use, company, work     |     88    |
+|   algorithm, use, data    |     86    |
 
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
