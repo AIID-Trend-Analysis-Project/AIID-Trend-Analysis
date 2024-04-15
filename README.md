@@ -62,13 +62,26 @@ The most three active clusters are lighting up the AI universe like a digital bo
 ![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/daa030c3-e373-4df9-86e4-e40f868f6162)
 
-The Cluster -1 corner of the AI universe is where all the juicy social media scandals hang out. You know, like when Facebook's market took a tumble or those sneaky AI-generated fake images started popping up. It's like the TMZ of the AI world, always dishing out the latest gossip. Now, here's the twist: despite all the drama, the sentiment here is surprisingly neutral.The pulse of social media scandals beats relentlessly.From Facebook's market turbulence to the emergence of deceitful AI-generated imagery, every revelation adds fuel to the fire of intrigue.Cluster -1 remains a captivating glimpse into the intersection of AI and human drama. Despite the sensational nature of social media scandals, media reporting tends to maintain a neutral stance, focusing on factual presentation rather than opinion.
+The Cluster -1 corner of the AI universe is where all the juicy social media scandals hang out. You know, like when Facebook's market took a tumble or those sneaky AI-generated fake images started popping up. It's like the TMZ of the AI world, always dishing out the latest gossip. Now, here's the twist: despite all the drama, the sentiment here is surprisingly neutral. The pulse of social media scandals beats relentlessly. From Facebook's market turbulence to the emergence of deceitful AI-generated imagery, every revelation adds fuel to the fire of intrigue. Cluster -1 remains a captivating glimpse into the intersection of AI and human drama. Despite the sensational nature of social media scandals, media reporting tends to maintain a neutral stance, focusing on factual presentation rather than opinion.
 
 Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side. Seems like not everyone's convinced that self-driving cars are ready for prime time. Media reporting on self-driving cars tends to be more critical or skeptical, reflecting concerns about safety and reliability. But hey, that's the beauty of a good debate, right?
  
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/32b4748c-3001-4091-a10c-4f42760b5a5e)
  
 While zooming into Cluster 46, imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag. Some folks are all hyped up about the possibilities, while others are a bit skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
+**Top 10 Common Topic Keywords**
+| Topic Keywords  | Frequency |
+| ------------- | ------------- |
+|  tesla, autopilot, driver |    180    |
+|    car, vehicle, drive    |    160    |
+|     ai, use, student      |    153    |
+|     ai, google, image     |    127    |
+|    ai, model, chatgpt     |    125    |
+| use, recognition, facial  |    116    |
+|  facebook, content, user  |    115    |
+| shotspotter, debt, police |    97     |
+|    use, company, work     |    88     |
+|   algorithm, use, data    |    86     |
 
 ![keywords](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/71f7b5d6-f320-4d0f-ab6a-a88d6a7b3b32)
 
