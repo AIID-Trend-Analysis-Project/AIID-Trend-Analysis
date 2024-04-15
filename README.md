@@ -88,7 +88,8 @@ While zooming into Cluster 46, imagine a bunch of tech geeks deep-diving into vo
 
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
-#### **Top 3 Contributing Authors in All Cluster**
+### Author Contribution Analysis
+##### **Top 3 Contributing Authors in All Cluster**
 | Authors  | Frequency |
 | ------------- | ------------- |
 | BBC News  | 22  |
@@ -102,7 +103,7 @@ Now, we're taking a closer look at the insightful contributions of BBC News, Reu
 Let's shine the spotlight on James Vincent, the maestro of AI incident reporting, with an impressive 21 contributions. James Vincent seems to have the most positive VADER sentiment score (0.189) and highest Subjectivity score (-0.131) among all, assuming he is most sensational and subjective authors in the AIID.
 
 
-#### **Top 3 Clusters among Top 3 Contributing Authors**
+##### **Top 3 Clusters among Top 3 Contributing Authors**
 | Cluster Names  | Frequency |
 | ------------- | ------------- |
 | Cluster -1  | 15  |
@@ -113,7 +114,7 @@ Let's shine the spotlight on James Vincent, the maestro of AI incident reporting
 
 Among these 3 authors, the most active clusters are -1, 6, and 40. Cluster -1 has the highest VADER sentiment score (0.621) and highest Subjectivity score (-0.106). Cluster 40 has the second highest VADER sentiment score (0.003) and second highest Subjectivity score (-0.177). Cluster 6 has the lowest VADER sentiment score (-0.411) and highest Subjectivity score (-0.250). Now we can take a closer look at what are the topic keywords within these 3 clusters. 
 
-#### **Top 10 Common Topic Keywords**
+##### **Top 10 Common Topic Keywords**
 | Topic Keywords  | Frequency |
 | ------------- | ------------- |
 | ai, google, image  | 6  |
