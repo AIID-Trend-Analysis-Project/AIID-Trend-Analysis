@@ -80,6 +80,7 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | BBC News  | 22  |
 | James Vincent  | 21  |
 | Reuters  | 20  |
+
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/41927bc3-09bc-48d8-b283-b6ca273f1254)
 
 
@@ -89,6 +90,7 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | Cluster -1  | 15  |
 | Cluster 6  | 12  |
 | Cluster 40  | 4  |
+
 ![Picture2](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/8152e790-8966-4faa-bc57-2ca13879da1b)
 
 
