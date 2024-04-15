@@ -91,19 +91,19 @@ Furthermore, the integration of DistilBERT embeddings facilitated the generation
 
 Understanding sentiment patterns and media discourse surrounding AI is crucial for accurately capturing and indexing AI-related incidents, ultimately contributing to the advancement of AI ethics and safety.  Addressing risks such as bias in media reporting, the risk of misinterpretation of results due to complex linguistic nuances, and the possibility of unintended consequences stemming from recommendations based on the analysis, potential for algorithmic biases in the NLP model used for sentiment analysis, and ethical considerations will be essential to ensure the integrity and validity of future analyses. One of the main risk includes the model sticking on to the English language, which when included with other languages might shift the insights.
 
-# Key Findings:
+### Key Findings:
 1.The analysis revealed shifting trends in AI reporting over time, from rare mentions before 2015 to a significant increase in media attention post-2015. This shift corresponded with the emergence of self-driving cars, algorithmic biases, and societal impacts as prominent topics in AI journalism.
 2.The topics using LDA ranged from physical AI incidents like autonomous vehicles to digital issues such as deepfakes and misinformation bots, reflecting the diverse landscape of AI journalism.
 3.Clusters related to social media scandals, self-driving cars, and voice-controlled AI gadgets emerged as prominent themes, each with its unique sentiment and focus.
 4.sentiment analysis using TextBlob and VADER unveiled fluctuations in the emotional tone of AI reporting across different clusters. While some clusters maintained a neutral sentiment, particularly those addressing social media scandals, others, such as those concerning self-driving cars and digital issues, exhibited more negative sentiment. This negativity suggests a level of skepticism or concern, particularly regarding the safety and reliability of autonomous vehicles. Interestingly, despite the sensational nature of social media scandals, media reporting tended to remain neutral, prioritizing factual presentation over opinion. These findings underscore the nuanced nature of public perception surrounding AI-related incidents and highlight the importance of considering emotional context in media analysis.
 5. The top media domains contributing to AI reporting included theguardian.com, theverge.com, nytimes.com, washingtonpost.com, and wired.com and by prominent indivuals: BBC News, James Vincent, and Reuters majorly revolved around Keywords such as "Tesla," "autopilot," "AI images," "ChatGPT," and "face IDs", reflecting key topics driving media coverage of AI incidents.
 
-# Call to Action: 
+### Call to Action: 
 As the next step, we suggest the AIID create some simple human metrics when submitting articles.
 The packages we have currently used are not tooled for the specific task
 If a new check box could be added to the AIID website that allows the submitter to optionally say whether an article is sensational (positive), not sensational (neutral), or sensational (negative), we will be able to more accurately determine trends in reporting.
 
-# Looking Forward: 
+### Looking Forward: 
 As AI becomes more ingrained into our daily lives, the need to objectively look at the technology of the future is greater than ever.
 * [Flair](https://github.com/flairNLP/flair) allows applying state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.potential next steps include refining the analysis, exploring additional NLP techniques, and expanding the scope of data collection to include a broader range of sources, languages, and regions.This could involve developing algorithms to identify biased language, assessing the impact of bias on public perception, and implementing strategies to promote balanced reporting.
 
