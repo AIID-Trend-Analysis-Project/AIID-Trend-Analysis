@@ -28,41 +28,50 @@ The above cluster visualization highlights key trends in the dataset over time. 
 To the left of the graph, we see incidents often linked to location-specific issues, like failures in facial recognition software to detect certain skin tones or problems that are unique to specific countries. On the right, the issues are broader, affecting overall technology sectors like High-Frequency Trading (HFT) algorithms and automated systems in banking and education. This area of the graph sometimes struggles to accurately capture issues related to race, geography, and gender when they aren't clearly mentioned in the articles.
 
 ![Pre-2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/d92d5c02-3dc4-4e31-8142-01ea19518f3c)
+
 Before 2015, AI-related incidents were rare, with the most significant cluster concerning racism and discrimination in search algorithms and chatbots. 
 
 ![2015-2016 scatter plot](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/e2f8ffb4-b544-4c87-820e-0aa1629c8773)
+
 From 2015, clearer trends started to emerge, including early reports on Google’s self-driving cars and predictive policing. By 2016, there was a notable increase in media attention, with more reports on self-driving cars and a rise in recognition of algorithmic biases, like those affecting Pokémon Go's geographic preferences.
 
 ![Traditional Robotics](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/42017f24-59c2-4247-a22b-6aa7f041382f)
+
 Between mid-2015 and late 2017, while the general trend of articles remained the same, there was a clear increase in traditional robotics-related incidents. One interesting point of note, however, is that after 2018, the robotics clusters largely stagnate, and seems to have fallen out of the interest of the news cycle, despite the constantly expanding tesla cluster.
 
 ![2017-2021 Left to Right Shift](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/1dd91929-59a8-40ea-8dc0-c841c45a4e93)
+
 From 2017 to 2021, the focus of reports shifted from digital and geographic issues to broader technological and societal impacts. In 2019, particularly, there was a noticeable decrease in incidents on the left side of the graph, indicating that the technology was maturing as more businesses and institutions adopted AI, affecting more people.
 
 ![2022 Start Cumulative](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/c970e139-2ec3-448e-a87d-fa1e0b73e050)
+
 2022 marked a notable shift in the reports gathered by the AIID. Before we proceed, let's review the cumulative cluster diagram from the beginning of the year. By this time, self-driving vehicles had become a regular topic in news reports, forming the most distinct cluster. Additionally, there was a significant increase in reports on AI incidents impacting society at large, beyond just racial and gender-based issues. Reports on Deepfakes, bot misinformation in social media, and other harmful AI-powered technologies also started to form their own distinct clusters.
 
 ![2022 2023 CLusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/cceedf11-4338-4154-8b82-a34bf9e2d9ee)
+
 The introduction of ChatGPT in 2022 saw the formation of multiple new clusters within the dataset. As the attention of ChatGPT entered the public eye, It seems to have had a ripple effect on Large Language Models (LLMs) and chatbots, as well as adjacent technologies such as deepfakes and misinformation bots.
 
 While we dive into the nitty-gritty, let's take a gander at the top five source domains that are setting the stage on fire with their hot takes and sizzling reports.
 First up on the podium, we've got theguardian.com strutting its stuff with a whopping 122 incidents to its name. The Guardian ain't pulling no punches when it comes to AI chatter, and boy, do they know how to stir the pot. Next in line, we've got theverge.com stepping into the ring with 82 incidents of its own. If there's one thing The Verge knows how to do, it's capturing the pulse of the tech scene, and AI is no exception.
+
 ![Top 5 domains](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/f7873644-0987-43f8-9fca-d0ffd35f8ba2)
+
 Sliding into third place, we've got nytimes.com holding its ground with 78 incidents. The New York Times isn't just about breaking news; it's about breaking barriers, and AI is just another notch on its journalistic belt. Not too far behind, we've got washingtonpost.com making waves with 60 incidents. The Washington Post isn't afraid to tackle the tough topics, and when it comes to AI, they're diving headfirst into the digital deep end. And we've also got wired.com rounding out the top five with 55 incidents. Wired knows how to wire up a story, and when it comes to AI, they're plugged in and ready to roll.
 
 The most three active clusters are lighting up the AI universe like a digital bonfire!
 ![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/daa030c3-e373-4df9-86e4-e40f868f6162)
 
- The Cluster -1 corner of the AI universe is where all the juicy social media scandals hang out. You know, like when Facebook's market took a tumble or those sneaky AI-generated fake images started popping up. It's like the TMZ of the AI world, always dishing out the latest gossip. Now, here's the twist: despite all the drama, the sentiment here is surprisingly neutral.The pulse of social media scandals beats relentlessly.From Facebook's market turbulence to the emergence of deceitful AI-generated imagery, every revelation adds fuel to the fire of intrigue.Cluster -1 remains a captivating glimpse into the intersection of AI and human drama. Despite the sensational nature of social media scandals, media reporting tends to maintain a neutral stance, focusing on factual presentation rather than opinion.
+The Cluster -1 corner of the AI universe is where all the juicy social media scandals hang out. You know, like when Facebook's market took a tumble or those sneaky AI-generated fake images started popping up. It's like the TMZ of the AI world, always dishing out the latest gossip. Now, here's the twist: despite all the drama, the sentiment here is surprisingly neutral.The pulse of social media scandals beats relentlessly.From Facebook's market turbulence to the emergence of deceitful AI-generated imagery, every revelation adds fuel to the fire of intrigue.Cluster -1 remains a captivating glimpse into the intersection of AI and human drama. Despite the sensational nature of social media scandals, media reporting tends to maintain a neutral stance, focusing on factual presentation rather than opinion.
 
- Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side. Seems like not everyone's convinced that self-driving cars are ready for prime time. Media reporting on self-driving cars tends to be more critical or skeptical, reflecting concerns about safety and reliability. But hey, that's the beauty of a good debate, right?
+Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side. Seems like not everyone's convinced that self-driving cars are ready for prime time. Media reporting on self-driving cars tends to be more critical or skeptical, reflecting concerns about safety and reliability. But hey, that's the beauty of a good debate, right?
  
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/32b4748c-3001-4091-a10c-4f42760b5a5e)
  
 While zooming into Cluster 46, imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag. Some folks are all hyped up about the possibilities, while others are a bit skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
 
 ![keywords](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/71f7b5d6-f320-4d0f-ab6a-a88d6a7b3b32)
+
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
 **Top 3 Contributing Authors in All Cluster**
@@ -71,7 +80,7 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | BBC News  | 22  |
 | James Vincent  | 21  |
 | Reuters  | 20  |
-
+![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/41927bc3-09bc-48d8-b283-b6ca273f1254)
 
 
 **Top 3 Clusters among Top 3 Contributing Authors**
@@ -80,6 +89,7 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | Cluster -1  | 15  |
 | Cluster 6  | 12  |
 | Cluster 40  | 4  |
+![Picture2](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/8152e790-8966-4faa-bc57-2ca13879da1b)
 
 
 **Top 10 Common Topic Keywords**
@@ -87,7 +97,7 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | ------------- | ------------- |
 | ai, google, image  | 6  |
 | car, vehicle, drive  | 6  |
-| Ctesla, autopilot, driver  | 6  |
+| tesla, autopilot, driver  | 6  |
 | ai, model, chatgpt  | 4  |
 | ad, facebook, user  | 3  |
 | face, id, apple  | 3  |
