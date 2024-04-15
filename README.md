@@ -60,8 +60,10 @@ The most three active clusters are lighting up the AI universe like a digital bo
  
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/32b4748c-3001-4091-a10c-4f42760b5a5e)
  
-While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag. Some folks are all hyped up about the possibilities, while others are a bit skeptical. 
+While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag. Some folks are all hyped up about the possibilities, while others are a bit skeptical.
 
+![keywords](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/71f7b5d6-f320-4d0f-ab6a-a88d6a7b3b32)
+In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction.
 
 
 ![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
