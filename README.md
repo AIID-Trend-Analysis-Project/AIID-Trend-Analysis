@@ -58,7 +58,7 @@ The top three active clusters are lighting up the AI universe like a digital bon
 
  Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side. Seems like not everyone's convinced that self-driving cars are ready for prime time. But hey, that's the beauty of a good debate, right?
  
-![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/16f43b37-860a-4c1a-bce8-16e52023a694)
+![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/32b4748c-3001-4091-a10c-4f42760b5a5e)
  
 While zooming into Cluster 46. Imagine a bunch of tech geeks deep-diving into voice-controlled AI gadgets, debating over chatbots, and even pondering whether YouTube videos have the power to sway elections. It's like a tech talk show on steroids! The sentiment here? It's a mixed bag. Some folks are all hyped up about the possibilities, while others are a bit skeptical. 
 
