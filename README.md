@@ -23,6 +23,7 @@ By examining over 600 incident reports indexed by AIID, the project seeks to und
 ### Cluster Analysis
 
 ![All Plots](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/b98cbe6a-2dc6-43bc-af5e-35669e641b8f)
+
 The above cluster visualization highlights key trends in the dataset over time. Although clustering algorithms have their limitations, we can still make some general interpretations from the axes. Clusters at the top generally relate to physical AI incidents, such as autonomous Teslas, robots, and other machines operating independently with AI systems. Moving downward, the focus shifts towards more digital issues, including problems with deepfakes, AI-generated images, and errors in AI conversations like those in ChatGPT.
 
 To the left of the graph, we see incidents often linked to location-specific issues, like failures in facial recognition software to detect certain skin tones or problems that are unique to specific countries. On the right, the issues are broader, affecting overall technology sectors like High-Frequency Trading (HFT) algorithms and automated systems in banking and education. This area of the graph sometimes struggles to accurately capture issues related to race, geography, and gender when they aren't clearly mentioned in the articles.
@@ -59,6 +60,7 @@ First up on the podium, we've got theguardian.com strutting its stuff with a who
 Sliding into third place, we've got nytimes.com holding its ground with 78 incidents. The New York Times isn't just about breaking news; it's about breaking barriers, and AI is just another notch on its journalistic belt. Not too far behind, we've got washingtonpost.com making waves with 60 incidents. The Washington Post isn't afraid to tackle the tough topics, and when it comes to AI, they're diving headfirst into the digital deep end. And we've also got wired.com rounding out the top five with 55 incidents. Wired knows how to wire up a story, and when it comes to AI, they're plugged in and ready to roll.
 
 The most three active clusters are lighting up the AI universe like a digital bonfire!
+
 ![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/daa030c3-e373-4df9-86e4-e40f868f6162)
 
@@ -86,7 +88,7 @@ While zooming into Cluster 46, imagine a bunch of tech geeks deep-diving into vo
 
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
-**Top 3 Contributing Authors in All Cluster**
+#### **Top 3 Contributing Authors in All Cluster**
 | Authors  | Frequency |
 | ------------- | ------------- |
 | BBC News  | 22  |
@@ -95,8 +97,12 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/41927bc3-09bc-48d8-b283-b6ca273f1254)
 
+Now, we're taking a closer look at the insightful contributions of BBC News, Reuters, and James Vincent. BBC News has contributed 22 times, while Reuters has contributed 20 times. Since they are both News website, there may exist a lot of authors involving in corresponding AI incident reports. BBC News has a  relatively higher average VADER sentiment score (-0.248) than Reuters (-0.304). BBC News also has a higher average Subjectivity score (-0.143) than Reuters (-0.225). We are assuming BBC News is more sensational and subjective than Reuters. 
 
-**Top 3 Clusters among Top 3 Contributing Authors**
+Let's shine the spotlight on James Vincent, the maestro of AI incident reporting, with an impressive 21 contributions. James Vincent seems to have the most positive VADER sentiment score (0.189) and highest Subjectivity score (-0.131) among all, assuming he is most sensational and subjective authors in the AIID.
+
+
+#### **Top 3 Clusters among Top 3 Contributing Authors**
 | Cluster Names  | Frequency |
 | ------------- | ------------- |
 | Cluster -1  | 15  |
@@ -105,8 +111,9 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 
 ![Picture2](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/8152e790-8966-4faa-bc57-2ca13879da1b)
 
+Among these 3 authors, the most active clusters are -1, 6, and 40. Cluster -1 has the highest VADER sentiment score (0.621) and highest Subjectivity score (-0.106). Cluster 40 has the second highest VADER sentiment score (0.003) and second highest Subjectivity score (-0.177). Cluster 6 has the lowest VADER sentiment score (-0.411) and highest Subjectivity score (-0.250). Now we can take a closer look at what are the topic keywords within these 3 clusters. 
 
-**Top 10 Common Topic Keywords**
+#### **Top 10 Common Topic Keywords**
 | Topic Keywords  | Frequency |
 | ------------- | ------------- |
 | ai, google, image  | 6  |
@@ -120,6 +127,7 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | tay, search, google  | 3  |
 | ai, use, student  | 2  |
 
+Now, let's zoom in on clusters -1, 6, and 40, where the top 10 topic keywords offer a glimpse into the beating heart of AI discourse. BBC News, James Vincent, and Reuters are always contributing on AI trendy topics such as Tesla, AI Images, Face IDs, Chatgpt, social media content, and etcs. We gain invaluable insights into the most pressing trends shaping the AI industry today by reading their reports. 
 
 ## Making It Relevant: Connecting With the Audience
 
@@ -135,15 +143,15 @@ Furthermore, the integration of DistilBERT embeddings facilitated the generation
 Understanding sentiment patterns and media discourse surrounding AI is crucial for accurately capturing and indexing AI-related incidents, ultimately contributing to the advancement of AI ethics and safety.  Addressing risks such as bias in media reporting, the risk of misinterpretation of results due to complex linguistic nuances, and the possibility of unintended consequences stemming from recommendations based on the analysis, potential for algorithmic biases in the NLP model used for sentiment analysis, and ethical considerations will be essential to ensure the integrity and validity of future analyses. One of the main risk includes the model sticking on to the English language, which when included with other languages might shift the insights.
 
 ### Key Findings:
-1.The analysis revealed shifting trends in AI reporting over time, from rare mentions before 2015 to a significant increase in media attention post-2015. This shift corresponded with the emergence of self-driving cars, algorithmic biases, and societal impacts as prominent topics in AI journalism.
+1. The analysis revealed shifting trends in AI reporting over time, from rare mentions before 2015 to a significant increase in media attention post-2015. This shift corresponded with the emergence of self-driving cars, algorithmic biases, and societal impacts as prominent topics in AI journalism.
 
-2.The topics using LDA ranged from physical AI incidents like autonomous vehicles to digital issues such as deepfakes and misinformation bots, reflecting the diverse landscape of AI journalism.
+2. The topics using LDA ranged from physical AI incidents like autonomous vehicles to digital issues such as deepfakes and misinformation bots, reflecting the diverse landscape of AI journalism.
 
-3.Clusters related to social media scandals, self-driving cars, and voice-controlled AI gadgets emerged as prominent themes, each with its unique sentiment and focus.
+3. Clusters related to social media scandals, self-driving cars, and voice-controlled AI gadgets emerged as prominent themes, each with its unique sentiment and focus.
 
-4.Sentiment analysis using TextBlob and VADER unveiled fluctuations in the emotional tone of AI reporting across different clusters. While some clusters maintained a neutral sentiment, particularly those addressing social media scandals, others, such as those concerning self-driving cars and digital issues, exhibited more negative sentiment. This negativity suggests a level of skepticism or concern, particularly regarding the safety and reliability of autonomous vehicles. Interestingly, despite the sensational nature of social media scandals, media reporting tended to remain neutral, prioritizing factual presentation over opinion. These findings underscore the nuanced nature of public perception surrounding AI-related incidents and highlight the importance of considering emotional context in media analysis.
+4. Sentiment analysis using TextBlob and VADER unveiled fluctuations in the emotional tone of AI reporting across different clusters. While some clusters maintained a neutral sentiment, particularly those addressing social media scandals, others, such as those concerning self-driving cars and digital issues, exhibited more negative sentiment. This negativity suggests a level of skepticism or concern, particularly regarding the safety and reliability of autonomous vehicles. Interestingly, despite the sensational nature of social media scandals, media reporting tended to remain neutral, prioritizing factual presentation over opinion. These findings underscore the nuanced nature of public perception surrounding AI-related incidents and highlight the importance of considering emotional context in media analysis.
 
-5.The top media domains contributing to AI reporting included theguardian.com, theverge.com, nytimes.com, washingtonpost.com, and wired.com and by prominent indivuals: BBC News, James Vincent, and Reuters majorly revolved around Keywords such as "Tesla," "autopilot," "AI images," "ChatGPT," and "face IDs", reflecting key topics driving media coverage of AI incidents.
+5. The top media domains contributing to AI reporting included theguardian.com, theverge.com, nytimes.com, washingtonpost.com, and wired.com and by prominent indivuals: BBC News, James Vincent, and Reuters majorly revolved around Keywords such as "Tesla," "autopilot," "AI images," "ChatGPT," and "face IDs", reflecting key topics driving media coverage of AI incidents.
 
 ### Call to Action: 
 As the next step, we suggest the AIID create some simple human metrics when submitting articles.
