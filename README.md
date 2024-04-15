@@ -93,9 +93,13 @@ Understanding sentiment patterns and media discourse surrounding AI is crucial f
 
 ### Key Findings:
 1.The analysis revealed shifting trends in AI reporting over time, from rare mentions before 2015 to a significant increase in media attention post-2015. This shift corresponded with the emergence of self-driving cars, algorithmic biases, and societal impacts as prominent topics in AI journalism.
+
 2.The topics using LDA ranged from physical AI incidents like autonomous vehicles to digital issues such as deepfakes and misinformation bots, reflecting the diverse landscape of AI journalism.
+
 3.Clusters related to social media scandals, self-driving cars, and voice-controlled AI gadgets emerged as prominent themes, each with its unique sentiment and focus.
+
 4.sentiment analysis using TextBlob and VADER unveiled fluctuations in the emotional tone of AI reporting across different clusters. While some clusters maintained a neutral sentiment, particularly those addressing social media scandals, others, such as those concerning self-driving cars and digital issues, exhibited more negative sentiment. This negativity suggests a level of skepticism or concern, particularly regarding the safety and reliability of autonomous vehicles. Interestingly, despite the sensational nature of social media scandals, media reporting tended to remain neutral, prioritizing factual presentation over opinion. These findings underscore the nuanced nature of public perception surrounding AI-related incidents and highlight the importance of considering emotional context in media analysis.
+
 5. The top media domains contributing to AI reporting included theguardian.com, theverge.com, nytimes.com, washingtonpost.com, and wired.com and by prominent indivuals: BBC News, James Vincent, and Reuters majorly revolved around Keywords such as "Tesla," "autopilot," "AI images," "ChatGPT," and "face IDs", reflecting key topics driving media coverage of AI incidents.
 
 ### Call to Action: 
