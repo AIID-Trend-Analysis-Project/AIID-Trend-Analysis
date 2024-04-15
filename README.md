@@ -47,13 +47,16 @@ The introduction of ChatGPT in 2022 saw the formation of multiple new clusters w
 
 
 ![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
-The 3 most prominent individual authors are BBC News, James Vincent, and Reuters. The average VADER and Textblob Subjetivity scores are shown on the chart above. 
+
+The 3 most prominent individual authors are BBC News, James Vincent, and Reuters. The average VADER and Textblob Subjetivity scores are shown on the chart above. James Vincent seems to have the most positive VADER sentiment score while other two authors have relatively negative VADER sentiment score.
 
 ![Top 3 Cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/eb4ca9ef-8d2e-490b-aa5a-26c913e58d9c)
+
 Among these 3 authors, the most active clusters are -1, 6, and 40. The average VADER and Textblob Subjetivity scores of each cluster are shown on the chart above.
 
 ![Top 10 topics](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/4bffcd38-a6fb-4b74-a37f-70e05cfdba85)
-Among these 3 authors, the top 10 keywords topics are illustrate as above. 
+
+Among these 3 authors, the top 10 keywords topics are illustrate as above. They are contributing a lot of AI trendy topics such as Tesla, AI Images, Face IDs, Chatgpt, and etcs. 
 
 ## Making It Relevant: Connecting With the Audience
 
@@ -231,7 +234,7 @@ Sentiment analysis is one of the most widely known Natural Language Processing (
 Vader sentiment returns the probability of a given input sentence to be compound, positive, negative, and neutral by using a list of lexical features (e.g. word) according to their semantic orientation to calculate the text sentiment. 
 The limitation of VADER is that the method only focuses on individual words and completely ignores the context in which it is used. 
   
-#### Explanation of Textblob Subjectivity
+### Explanation of Textblob Subjectivity
 * [TextBlob](https://textblob.readthedocs.io/en/dev/) 
 Textblob sentiment analyzer returns two properties for a given input sentence: 
   **Polarity** is a float that lies between [-1,1], -1 indicates negative sentiment and +1 indicates positive sentiments. 
