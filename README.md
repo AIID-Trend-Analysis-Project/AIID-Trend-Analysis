@@ -66,17 +66,6 @@ While zooming into Cluster 46, imagine a bunch of tech geeks deep-diving into vo
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
 
-![Top 3 Authors](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/371fd9c8-4417-4501-b4d0-d2a25ed19756)
-
-The 3 most prominent individual authors are BBC News, James Vincent, and Reuters. The average VADER and Textblob Subjetivity scores are shown on the chart above. James Vincent seems to have the most positive VADER sentiment score while other two authors have relatively negative VADER sentiment score.
-
-![Top 3 Cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/eb4ca9ef-8d2e-490b-aa5a-26c913e58d9c)
-
-Among these 3 authors, the most active clusters are -1, 6, and 40. The average VADER and Textblob Subjetivity scores of each cluster are shown on the chart above.
-
-![Top 10 topics](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/4bffcd38-a6fb-4b74-a37f-70e05cfdba85)
-
-Among these 3 authors, the top 10 keywords topics are illustrated as above. They are contributing a lot of AI trendy topics such as Tesla, AI Images, Face IDs, Chatgpt, and etcs. 
 
 ## Making It Relevant: Connecting With the Audience
 
