@@ -51,11 +51,12 @@ First up on the podium, we've got theguardian.com strutting its stuff with a who
 Sliding into third place, we've got nytimes.com holding its ground with 78 incidents. The New York Times isn't just about breaking news; it's about breaking barriers, and AI is just another notch on its journalistic belt. Not too far behind, we've got washingtonpost.com making waves with 60 incidents. The Washington Post isn't afraid to tackle the tough topics, and when it comes to AI, they're diving headfirst into the digital deep end. And we've also got wired.com rounding out the top five with 55 incidents. Wired knows how to wire up a story, and when it comes to AI, they're plugged in and ready to roll.
 
 The top three active clusters are lighting up the AI universe like a digital bonfire!
+![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/daa030c3-e373-4df9-86e4-e40f868f6162)
 
  The Cluster -1 corner of the AI universe is where all the juicy social media scandals hang out. You know, like when Facebook's market took a tumble or those sneaky AI-generated fake images started popping up. It's like the TMZ of the AI world, always dishing out the latest gossip. Now, here's the twist: despite all the drama, the sentiment here is surprisingly neutral.The pulse of social media scandals beats relentlessly.From Facebook's market turbulence to the emergence of deceitful AI-generated imagery, every revelation adds fuel to the fire of intrigue.Cluster -1 remains a captivating glimpse into the intersection of AI and human drama.
-![cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/a73d7352-e9b3-460f-86ca-3c291a87135a)
-Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side. Seems like not everyone's convinced that self-driving cars are ready for prime time. But hey, that's the beauty of a good debate, right?
+
+ Cluster 6 is a bunch of gearheads huddled around, chatting about self-driving cars, especially those sleek Teslas. Yep, we're talking about autopilot, car driving tech, and all things car-related. The sentiment here? Well, it's a bit on the negative side. Seems like not everyone's convinced that self-driving cars are ready for prime time. But hey, that's the beauty of a good debate, right?
  
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/16f43b37-860a-4c1a-bce8-16e52023a694)
  
