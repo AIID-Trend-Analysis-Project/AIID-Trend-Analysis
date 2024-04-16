@@ -155,7 +155,7 @@ If a new check box could be added to the AIID website that allows the submitter 
 
 ### Looking Forward: 
 As AI becomes more ingrained into our daily lives, the need to objectively look at the technology of the future is greater than ever.
-* [Flair](https://github.com/flairNLP/flair) allows applying state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.potential next steps include refining the analysis, exploring additional NLP techniques, and expanding the scope of data collection to include a broader range of sources, languages, and regions.This could involve developing algorithms to identify biased language, assessing the impact of bias on public perception, and implementing strategies to promote balanced reporting.
+* [Flair](https://github.com/flairNLP/flair) allows applying state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), sentiment analysis, part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages. Potential next steps include refining the analysis, exploring additional NLP techniques, and expanding the scope of data collection to include a broader range of sources, languages, and regions.This could involve developing algorithms to identify biased language, assessing the impact of bias on public perception, and implementing strategies to promote balanced reporting.
 
 
 
