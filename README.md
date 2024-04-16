@@ -4,6 +4,8 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 
 ## Introduction
 
+![Reports over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/ce0de493-8b2d-4c2b-b438-95cda4983986)
+
 Almost everyone is talking about AI since OpenAI’s public launch of ChatGPT, AI has become one of the trendiest topics taking over every facet of our lives, but have you ever wondered when did AI enter the public consciousness? How has opinion changed on the topic over time? What topics are falling in and out of the news cycle? How is the sentiment and subjectivity around AI reporting? As we can identify when a news article around politics is leaning towards a certain agenda or bias, there really hasn’t been much awareness and research done on this end for AI reporting. 
 
 By answering these questions, the project aims to computationally analyze the changing trends and rhetoric in AI journalism using data from the AI Incident Database (AIID). By leveraging natural language processing (NLP) techniques such as topic modeling, BERT, sentiment analysis, and embedding, the goal is to uncover insights into how the media reports incidents and harms related to AI over time. 
@@ -12,11 +14,8 @@ Introduction to the challenges and importance of analyzing media coverage of AI,
 
 By examining over 600 incident reports indexed by AIID, the project seeks to understand shifts in sentiment, language usage, and thematic trends in media coverage surrounding AI systems. The findings will not only benefit the AIID but also inform stakeholders in AI safety, governance, and compliance.
 
-
 ![sentiments over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/f8f5dd89-6f32-4373-99e3-995fa8030e8b)
 
-
-![Reports over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/ce0de493-8b2d-4c2b-b438-95cda4983986)
 
 
 ## Data Insights
