@@ -60,7 +60,7 @@ Sliding into third place, we've got nytimes.com holding its ground with 78 incid
 
 The most three active clusters are lighting up the AI universe like a digital bonfire!
 
-![cluster1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/43353f2f-8274-40b2-bc08-71468685ef44)
+![cluster 3](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/d9b712ee-cb2a-42a4-9b9b-7aa65008d8f0)
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/daa030c3-e373-4df9-86e4-e40f868f6162)
 
 Cluster -1 primarily focuses on social media scandals, such as issues with Facebook's market or the emergence of AI-generated fake images. Despite the sensational topics, the sentiment here tends to be neutral, indicating that the reporting is more about presenting facts rather than taking sides. Most of the articles in this cluster are sourced from theguardian.com. Cluster -1 remains a captivating glimpse into the intersection of AI and human drama. Despite the sensational nature of social media scandals, media reporting tends to maintain a neutral stance, focusing on factual presentation rather than opinion.
