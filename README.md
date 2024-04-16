@@ -67,7 +67,7 @@ Cluster -1 primarily focuses on social media scandals, such as issues with Faceb
 
 In cluster 6, the discussions revolve around self-driving cars, particularly Teslas, and related automotive AI technologies like autopilot. The sentiment here leans towards the negative side, suggesting that there's skepticism or concern about the readiness of self-driving cars for widespread adoption. Media reporting on self-driving cars tends to be more critical or skeptical, reflecting concerns about safety and reliability.
  
-![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/32b4748c-3001-4091-a10c-4f42760b5a5e)
+![Picture3](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/732546d3-af38-4d58-a1bf-f810c960e4c9)
  
 Cluster 46 delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections. The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
 
