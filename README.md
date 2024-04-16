@@ -69,7 +69,7 @@ In cluster 6, the discussions revolve around self-driving cars, particularly Tes
  
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/32b4748c-3001-4091-a10c-4f42760b5a5e)
  
-Cluster 46 delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections. The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical.. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
+Cluster 46 delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections. The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
 
 **Top 10 Common Topic Keywords**
 | Topic Keywords  | Frequency |
