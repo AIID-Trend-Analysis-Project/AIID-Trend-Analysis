@@ -38,50 +38,50 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 
 ![All Clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/dd7cf0c6-af36-465e-bd00-e8dd90e161e9)
 
--The above cluster visualization highlights key trends in the dataset over time. Although clustering algorithms have their limitations, we can still make some general interpretations from the axes. 
-    -The X-axis loosely indicates the scope of the incident.
-        -Incidents that happen to a specific group of peoples tend to lean left, while incidents that can affect everyone lean right.
-    -The Y-Axis Loosely indicates the type of incident.
-        -Incients involving self-drivings cars and robots tend to appear higher than those that are algorithmic and digital in nature.
+- The above cluster visualization highlights key trends in the dataset over time. Although clustering algorithms have their limitations, we can still make some general interpretations from the axes. 
+    - The X-axis loosely indicates the scope of the incident.
+        - Incidents that happen to a specific group of peoples tend to lean left, while incidents that can affect everyone lean right.
+    - The Y-Axis Loosely indicates the type of incident.
+        - Incients involving self-drivings cars and robots tend to appear higher than those that are algorithmic and digital in nature.
 
 ![pre-2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/c89431bd-976a-42b6-b122-0555f18a384a)
 
--Before 2015, AI-related incidents were rare, with the most significant cluster concerning racism and discrimination in search algorithms and chatbots. 
+- Before 2015, AI-related incidents were rare, with the most significant cluster concerning racism and discrimination in search algorithms and chatbots. 
 
 ![2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6a9d440e-e5ac-497c-a0c9-808a285c01f5)
--From 2015, clearer trends started to emerge, reports focus on algorithmic failures towards specific races or sex.
+- From 2015, clearer trends started to emerge, reports focus on algorithmic failures towards specific races or sex.
 
 ![2016](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6dc1ecfe-2ffa-4790-a9f4-275c6014623b)
--By 2016, there was a notable increase in media attention leading to an overall rise in number of reports
+- By 2016, there was a notable increase in media attention leading to an overall rise in number of reports
 
 ![robot cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/70f572bf-f602-442e-8b7f-d4fb8382e722)
 
--2015-2018 saw the formation of Robotic incidents region
+- 2015-2018 saw the formation of Robotic incidents region
     -The number of reports steadily rose until 2018
     -In Late 2017, there was a spike in sensationalism when multiple reports surrounding robots commiting suicide or being caught in tragedies
     -After this period, the number of robots surrounding robotic incidents saw a rather sharp decrease, with the region seeing little change afterwards.
 
 ![2017-2021 Left to Right Shift](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/1dd91929-59a8-40ea-8dc0-c841c45a4e93)
 
--From 2017 to 2021, the focus of reports shifted from targetting individuals to society as a whole. 
--2019, marked the most significant shift, with a noticeable decrease in incidents on the left side of the graph, indicating that the technology was maturing as more businesses and institutions adopted AI, affecting more people.
+- From 2017 to 2021, the focus of reports shifted from targetting individuals to society as a whole. 
+  - 2019, marked the most significant shift, with a noticeable decrease in incidents on the left side of the graph, indicating that the technology was maturing as more businesses and institutions adopted AI, affecting more people.
 
 ![Pre CGPT](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6e025050-95fb-4069-8987-2892c38a35f6)
 
--The January 2022 Cumulative visualization marks the final time period before ChatGPT significantly alters the vizualization
--At this point, there are significantly more incidents on the bottom right quartile vs the bottom left
--Deepfakes, AI image generation, algorithmic moderation, and bots have begin to form it's own region
--Self driving cars continues to be the most distinct cluster
+- The January 2022 Cumulative visualization marks the final time period before ChatGPT significantly alters the vizualization
+  - At this point, there are significantly more incidents on the bottom right quartile vs the bottom left
+  - Deepfakes, AI image generation, algorithmic moderation, and bots have begin to form it's own region
+  - Self driving cars continues to be the most distinct cluster
 
 ![2022](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/d13542f1-71d5-4e6e-a258-34cd45f75286)
 
--ChatGPT introduced in 2022, with first clusters appearing in march, followed be a second cluster in November
+- ChatGPT introduced in 2022, with first clusters appearing in march, followed be a second cluster in November
 
 ![2023](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/59c269b6-7ea0-4c39-bcbc-068fd47999ed)
 
--2023 saw a surge in distinct clusters that have formed as a result of ChatGPT
-    -Ripple effect sees more media attention on Ai and LLMs as a whole
-    -Deepfakes and Image generation also see large increases in reporting
+- 2023 saw a surge in distinct clusters that have formed as a result of ChatGPT
+    - Ripple effect sees more media attention on Ai and LLMs as a whole
+    - Deepfakes and Image generation also see large increases in reporting
 
 ### Media Trend Analysis
  Leading the discourse with 122 incidents, The Guardian stands out as a prominent source for AI-related reporting. Renowned for its comprehensive coverage and analytical approach, The Guardian provides a wealth of information on AI developments. The Verge emerges as a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, The Verge offers insightful commentary and analysis on AI trends and innovations.
