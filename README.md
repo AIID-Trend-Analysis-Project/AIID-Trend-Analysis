@@ -57,9 +57,9 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 ![robot cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/70f572bf-f602-442e-8b7f-d4fb8382e722)
 
 - 2015-2018 saw the formation of Robotic incidents region
-    -The number of reports steadily rose until 2018
-    -In Late 2017, there was a spike in sensationalism when multiple reports surrounding robots commiting suicide or being caught in tragedies
-    -After this period, the number of robots surrounding robotic incidents saw a rather sharp decrease, with the region seeing little change afterwards.
+    - The number of reports steadily rose until 2018
+    - In Late 2017, there was a spike in sensationalism when multiple reports surrounding robots commiting suicide or being caught in tragedies
+    - After this period, the number of robots surrounding robotic incidents saw a rather sharp decrease, with the region seeing little change afterwards.
 
 ![2017-2021 Left to Right Shift](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/1dd91929-59a8-40ea-8dc0-c841c45a4e93)
 
