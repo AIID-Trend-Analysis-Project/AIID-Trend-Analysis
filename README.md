@@ -6,72 +6,83 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 
 ![Reports over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/ce0de493-8b2d-4c2b-b438-95cda4983986)
 
-    AI has gained significant attention since OpenAI's release of ChatGPT, becoming a prevalent topic in many aspects of life.
+- This project explores:
+  - When AI first became a notable subject in the public eye.
+  - Tracking changes in public opinion and media coverage over time.
+  - Trends in AI-related news cycles.
+  - Subjectivity in AI reporting.
+  - Potential biases in how AI news is presented.
 
-    This project explores when AI first became a notable subject in the public eye, tracking changes in public opinion and media coverage over time.
+- Computational methods are used to analyze trends in AI journalism with data from the AI Incident Database (AIID).
+- Techniques include:
+  - Embedding methods.
+  - Topic modeling.
+  - BERT for natural language understanding.
+  - Sentiment analysis.
 
-    Key areas of focus include:
-        Trends in AI-related news cycles
-        Sentiment and subjectivity in AI reporting
-        Potential biases in how AI news is presented
+- Objectives of the project:
+  - Examine media coverage of AI.
+  - Understand the importance of sentiment analysis for public perception.
+  - Address specific research questions related to AI media coverage.
 
-    The project employs computational methods to analyze AI journalism trends using the AI Incident Database (AIID).
+- The analysis covers over 600 incident reports from AIID to:
+  - Identify the changing trends and topics within AI Journalism.
+  - Observe subjectivity of reporting sources and individuals.
 
-    Techniques used include:
-        Topic modeling
-        BERT for natural language understanding
-        Sentiment analysis
-        Embedding methods
-
-    Objectives include:
-        Examining media coverage challenges of AI
-        Understanding the importance of sentiment analysis for public perception
-        Addressing specific research questions related to AI media coverage
-
-    The analysis is based on over 600 incident reports from AIID, aiming to:
-        Identify shifts in sentiment and language usage
-        Observe thematic trends in media coverage of AI systems
-
-    Outcomes will benefit:
-        The AI Incident Database
-        Stakeholders in AI safety, governance, and compliance sectors
-
-![sentiments over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/f8f5dd89-6f32-4373-99e3-995fa8030e8b)
-
-
+- We hope this project will benefit:
+  - The AI Incident Database.
+  - As well as those interested in AI safety, governance, and compliance sectors.
 
 ## Data Insights
 ### Cluster Analysis
 
-![All Plots](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/b98cbe6a-2dc6-43bc-af5e-35669e641b8f)
+![All Clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/dd7cf0c6-af36-465e-bd00-e8dd90e161e9)
 
-The above cluster visualization highlights key trends in the dataset over time. Although clustering algorithms have their limitations, we can still make some general interpretations from the axes. Clusters at the top generally relate to physical AI incidents, such as autonomous Teslas, robots, and other machines operating independently with AI systems. Moving downward, the focus shifts towards more digital issues, including problems with deepfakes, AI-generated images, and errors in AI conversations like those in ChatGPT.
+-The above cluster visualization highlights key trends in the dataset over time. Although clustering algorithms have their limitations, we can still make some general interpretations from the axes. 
+    -The X-axis loosely indicates the scope of the incident.
+        -Incidents that happen to a specific group of peoples tend to lean left, while incidents that can affect everyone lean right.
+    -The Y-Axis Loosely indicates the type of incident.
+        -Incients involving self-drivings cars and robots tend to appear higher than those that are algorithmic and digital in nature.
 
-To the left of the graph, we see incidents often linked to location-specific issues, like failures in facial recognition software to detect certain skin tones or problems that are unique to specific countries. On the right, the issues are broader, affecting overall technology sectors like High-Frequency Trading (HFT) algorithms and automated systems in banking and education. This area of the graph sometimes struggles to accurately capture issues related to race, geography, and gender when they aren't clearly mentioned in the articles.
+![pre-2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/c89431bd-976a-42b6-b122-0555f18a384a)
 
-![Pre-2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/d92d5c02-3dc4-4e31-8142-01ea19518f3c)
+-Before 2015, AI-related incidents were rare, with the most significant cluster concerning racism and discrimination in search algorithms and chatbots. 
 
-Before 2015, AI-related incidents were rare, with the most significant cluster concerning racism and discrimination in search algorithms and chatbots. 
+![2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6a9d440e-e5ac-497c-a0c9-808a285c01f5)
+-From 2015, clearer trends started to emerge, reports focus on algorithmic failures towards specific races or sex.
 
-![2015-2016 scatter plot](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/e2f8ffb4-b544-4c87-820e-0aa1629c8773)
+![2016](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6dc1ecfe-2ffa-4790-a9f4-275c6014623b)
+-By 2016, there was a notable increase in media attention leading to an overall rise in number of reports
 
-From 2015, clearer trends started to emerge, including early reports on Google’s self-driving cars and predictive policing. By 2016, there was a notable increase in media attention, with more reports on self-driving cars and a rise in recognition of algorithmic biases, like those affecting Pokémon Go's geographic preferences.
+![robot cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/70f572bf-f602-442e-8b7f-d4fb8382e722)
 
-![Traditional Robotics](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/42017f24-59c2-4247-a22b-6aa7f041382f)
-
-Between mid-2015 and late 2017, while the general trend of articles remained the same, there was a clear increase in traditional robotics-related incidents. One interesting point of note, however, is that after 2018, the robotics clusters largely stagnate, and seems to have fallen out of the interest of the news cycle, despite the constantly expanding tesla cluster.
+-2015-2018 saw the formation of Robotic incidents region
+    -The number of reports steadily rose until 2018
+    -In Late 2017, there was a spike in sensationalism when multiple reports surrounding robots commiting suicide or being caught in tragedies
+    -After this period, the number of robots surrounding robotic incidents saw a rather sharp decrease, with the region seeing little change afterwards.
 
 ![2017-2021 Left to Right Shift](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/1dd91929-59a8-40ea-8dc0-c841c45a4e93)
 
-From 2017 to 2021, the focus of reports shifted from digital and geographic issues to broader technological and societal impacts. In 2019, particularly, there was a noticeable decrease in incidents on the left side of the graph, indicating that the technology was maturing as more businesses and institutions adopted AI, affecting more people.
+-From 2017 to 2021, the focus of reports shifted from targetting individuals to society as a whole. 
+-2019, marked the most significant shift, with a noticeable decrease in incidents on the left side of the graph, indicating that the technology was maturing as more businesses and institutions adopted AI, affecting more people.
 
-![2022 Start Cumulative](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/c970e139-2ec3-448e-a87d-fa1e0b73e050)
+![Pre CGPT](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6e025050-95fb-4069-8987-2892c38a35f6)
 
-2022 marked a notable shift in the reports gathered by the AIID. Before we proceed, let's review the cumulative cluster diagram from the beginning of the year. By this time, self-driving vehicles had become a regular topic in news reports, forming the most distinct cluster. Additionally, there was a significant increase in reports on AI incidents impacting society at large, beyond just racial and gender-based issues. Reports on Deepfakes, bot misinformation in social media, and other harmful AI-powered technologies also started to form their own distinct clusters.
+-The January 2022 Cumulative visualization marks the final time period before ChatGPT significantly alters the vizualization
+-At this point, there are significantly more incidents on the bottom right quartile vs the bottom left
+-Deepfakes, AI image generation, algorithmic moderation, and bots have begin to form it's own region
+-Self driving cars continues to be the most distinct cluster
 
-![2022 2023 CLusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/cceedf11-4338-4154-8b82-a34bf9e2d9ee)
+![2022](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/d13542f1-71d5-4e6e-a258-34cd45f75286)
 
-The introduction of ChatGPT in 2022 saw the formation of multiple new clusters within the dataset. As the attention of ChatGPT entered the public eye, It seems to have had a ripple effect on Large Language Models (LLMs) and chatbots, as well as adjacent technologies such as deepfakes and misinformation bots.
+-ChatGPT introduced in 2022, with first clusters appearing in march, followed be a second cluster in November
+
+![2023](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/59c269b6-7ea0-4c39-bcbc-068fd47999ed)
+
+-2023 saw a surge in distinct clusters that have formed as a result of ChatGPT
+    -Ripple effect sees more media attention on Ai and LLMs as a whole
+    -Deepfakes and Image generation also see large increases in reporting
+
 ### Media Trend Analysis
  Leading the discourse with 122 incidents, The Guardian stands out as a prominent source for AI-related reporting. Renowned for its comprehensive coverage and analytical approach, The Guardian provides a wealth of information on AI developments. The Verge emerges as a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, The Verge offers insightful commentary and analysis on AI trends and innovations.
 
@@ -346,4 +357,4 @@ The limitation of TextBlob is that it will only consider words and phrases that 
 
 ## Contact Information
 
-by Steven Shen, Yuxuan Chen (yuxuan.chen@gwu.edu), Shyam Sivasubramanian
+by Steven Shen (stevenshen2000@gmail.com), Yuxuan Chen (yuxuan.chen@gwu.edu), Shyam Sivasubramanian
