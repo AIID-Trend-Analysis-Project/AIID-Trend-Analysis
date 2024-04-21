@@ -7,11 +7,9 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 ![Reports over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/ce0de493-8b2d-4c2b-b438-95cda4983986)
 
 - This project explores:
-  - When AI first became a notable subject in the public eye.
-  - Tracking changes in public opinion and media coverage over time.
-  - Trends in AI-related news cycles.
-  - Subjectivity in AI reporting.
-  - Potential biases in how AI news is presented.
+  - When did AI first became a notable subject in the public eye?
+  - What has fallen in and out of reporting trends?
+  - How are our news sources surrounding the reporting of AI incidents potentially biased?
 
 - Computational methods are used to analyze trends in AI journalism with data from the AI Incident Database (AIID).
 - Techniques include:
@@ -19,11 +17,6 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
   - Topic modeling.
   - BERT for natural language understanding.
   - Sentiment analysis.
-
-- Objectives of the project:
-  - Examine media coverage of AI.
-  - Understand the importance of sentiment analysis for public perception.
-  - Address specific research questions related to AI media coverage.
 
 - The analysis covers over 600 incident reports from AIID to:
   - Identify the changing trends and topics within AI Journalism.
