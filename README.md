@@ -6,13 +6,35 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 
 ![Reports over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/ce0de493-8b2d-4c2b-b438-95cda4983986)
 
-Almost everyone is talking about AI since OpenAI’s public launch of ChatGPT, AI has become one of the trendiest topics taking over every facet of our lives, but have you ever wondered when did AI enter the public consciousness? How has opinion changed on the topic over time? What topics are falling in and out of the news cycle? How is the sentiment and subjectivity around AI reporting? As we can identify when a news article around politics is leaning towards a certain agenda or bias, there really hasn’t been much awareness and research done on this end for AI reporting. 
+    AI has gained significant attention since OpenAI's release of ChatGPT, becoming a prevalent topic in many aspects of life.
 
-By answering these questions, the project aims to computationally analyze the changing trends and rhetoric in AI journalism using data from the AI Incident Database (AIID). By leveraging natural language processing (NLP) techniques such as topic modeling, BERT, sentiment analysis, and embedding, the goal is to uncover insights into how the media reports incidents and harms related to AI over time. 
+    This project explores when AI first became a notable subject in the public eye, tracking changes in public opinion and media coverage over time.
 
-Introduction to the challenges and importance of analyzing media coverage of AI, explanation of the need for sentiment analysis in understanding public perception and overview of the specific research questions addressed in the project are the main problem understandings dealt here.
+    Key areas of focus include:
+        Trends in AI-related news cycles
+        Sentiment and subjectivity in AI reporting
+        Potential biases in how AI news is presented
 
-By examining over 600 incident reports indexed by AIID, the project seeks to understand shifts in sentiment, language usage, and thematic trends in media coverage surrounding AI systems. The findings will not only benefit the AIID but also inform stakeholders in AI safety, governance, and compliance.
+    The project employs computational methods to analyze AI journalism trends using the AI Incident Database (AIID).
+
+    Techniques used include:
+        Topic modeling
+        BERT for natural language understanding
+        Sentiment analysis
+        Embedding methods
+
+    Objectives include:
+        Examining media coverage challenges of AI
+        Understanding the importance of sentiment analysis for public perception
+        Addressing specific research questions related to AI media coverage
+
+    The analysis is based on over 600 incident reports from AIID, aiming to:
+        Identify shifts in sentiment and language usage
+        Observe thematic trends in media coverage of AI systems
+
+    Outcomes will benefit:
+        The AI Incident Database
+        Stakeholders in AI safety, governance, and compliance sectors
 
 ![sentiments over time](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/f8f5dd89-6f32-4373-99e3-995fa8030e8b)
 
