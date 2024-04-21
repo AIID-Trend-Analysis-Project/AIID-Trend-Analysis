@@ -1,4 +1,4 @@
-# Trends within Ai Journalism: An algorithmic analysis of how sentiment in reporting has changed over time
+# Trends within AI Journalism: An algorithmic analysis of how reporting has changed over time
 
 by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington University
 
