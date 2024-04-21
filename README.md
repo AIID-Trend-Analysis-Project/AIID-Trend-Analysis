@@ -42,9 +42,11 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 - Before 2015, AI-related incidents were rare, with the most significant cluster concerning racism and discrimination in search algorithms and chatbots. 
 
 ![2015](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6a9d440e-e5ac-497c-a0c9-808a285c01f5)
+
 - From 2015, clearer trends started to emerge, reports focus on algorithmic failures towards specific races or sex.
 
 ![2016](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/6dc1ecfe-2ffa-4790-a9f4-275c6014623b)
+
 - By 2016, there was a notable increase in media attention leading to an overall rise in number of reports
 
 ![robot cluster](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/70f572bf-f602-442e-8b7f-d4fb8382e722)
@@ -54,7 +56,7 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
     - In Late 2017, there was a spike in sensationalism when multiple reports surrounding robots commiting suicide or being caught in tragedies
     - After this period, the number of robots surrounding robotic incidents saw a rather sharp decrease, with the region seeing little change afterwards.
 
-![2017-2021 Left to Right Shift](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/1dd91929-59a8-40ea-8dc0-c841c45a4e93)
+![2017-2021 rightwards shift](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/158225645/cf4e2ab7-0db7-4c0f-9b7b-d3ea9fa89b67)
 
 - From 2017 to 2021, the focus of reports shifted from targetting individuals to society as a whole. 
   - 2019, marked the most significant shift, with a noticeable decrease in incidents on the left side of the graph, indicating that the technology was maturing as more businesses and institutions adopted AI, affecting more people.
