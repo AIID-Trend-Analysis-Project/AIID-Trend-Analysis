@@ -79,6 +79,7 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
     - Deepfakes and Image generation also see large increases in reporting
 
 ### Media Trend Analysis
+The provided data highlights the top prominent domain sources for incidents related to AI discourse.
  Leading the discourse with 122 incidents, The Guardian stands out as a prominent source for AI-related reporting. Renowned for its comprehensive coverage and analytical approach, The Guardian provides a wealth of information on AI developments. The Verge emerges as a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, The Verge offers insightful commentary and analysis on AI trends and innovations.
 
 ![Top 5 domains](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/f7873644-0987-43f8-9fca-d0ffd35f8ba2)
