@@ -109,19 +109,13 @@ In cluster 6, the discussions revolve around self-driving cars, particularly Tes
  
 Cluster 46 delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections. The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
 
-**Top 10 Common Topic Keywords**
-| Topic Keywords  | Frequency |
-| ------------- | ------------- |
-|  tesla, autopilot, driver |    180    |
-|    car, vehicle, drive    |    160    |
-|     ai, use, student      |    153    |
-|     ai, google, image     |    127    |
-|    ai, model, chatgpt     |    125    |
-| use, recognition, facial  |    116    |
-|  facebook, content, user  |    115    |
-| shotspotter, debt, police |     97    |
-|    use, company, work     |     88    |
-|   algorithm, use, data    |     86    |
+** Active Topic Keywords for Source: theguardian.com **
+|   |      Topic Keywords       | Frequency |  Subjectivity      |
++---+---------------------------+-----------+--------------------+
+ shotspotter, debt, police |    21     |  -0.23             |
+ facebook, content, user  |     7     |  -0.14             |
+ ai, use, student      |     6     |  -0.02             |
+  
 
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
