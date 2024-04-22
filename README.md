@@ -141,8 +141,8 @@ A case in 2016 where Google image searches of "three black teenagers" resulted i
 | Topic Keywords        | Frequency | Average Subjectivity |
 |-----------------------|-----------|----------------------|
 | car, vehicle, drive   | 5         | -0.15                |
-| ai, use, student      | 4         | <font style="color: yellow">-0.12</font>                 |
-| algorithm, use, data  | 4         | <font style="color: green">-0.27</font>                 |  
+| ai, use, student      | 4         | -0.12                |
+| algorithm, use, data  | 4         | -0.27                |  
 
 "algorithm, use, data" with an average subjectivity of -0.27 is more objective and "ai, use, student" is more subjective with a score of -0.12
 
