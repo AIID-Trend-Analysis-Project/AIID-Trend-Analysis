@@ -79,12 +79,13 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
     - Deepfakes and Image generation also see large increases in reporting
 
 ### Media Trend Analysis
-The provided data highlights the top prominent domain sources for incidents related to AI discourse.
+In the landscape of AI reporting, several key sources have emerged, each with its own unique contribution to the discourse. Let's take a closer look at the top 10 most frequent sources and their activity analysis:
 
 ![News](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/7885ea3d-9506-4f56-b0ff-c1eb696b92de)
 
-**The Guardian**: Leading with 122 incidents, The Guardian is a prominent source for AI-related reporting. Renowned for comprehensive coverage and analytical approach, it offers a wealth of information on AI developments
-Holding steady with 78 incidents, The New York Times maintains its reputation as a leading source of in-depth journalism. Leveraging its extensive network of reporters and resources, The Times delivers comprehensive coverage of AI issues. With 60 incidents,washingtonpost.com is known for its investigative journalism and thoughtful analysis, The Post provides valuable insights into the societal impact of AI.  Rounding out the top five with 55 incidents, Wired showcases its expertise in tech reporting. Renowned for its insightful commentary and engaging narratives, Wired offers readers a deeper understanding of the AI landscape.
+**The Guardian (theguardian.com)**: Leading the pack with 122 incidents, The Guardian stands out as a go-to source for AI-related reporting. Its coverage spans a wide range of topics, from social media scandals to AI's impact on law enforcement, as indicated by its most active topic keywords, including "shotspotter," "debt," and "police."
+
+The Verge: With 82 incidents, The Verge is a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, it provides insightful commentary and analysis on AI trends and innovations.
 
 The most three active clusters are lighting up the AI universe like a digital bonfire!
 
