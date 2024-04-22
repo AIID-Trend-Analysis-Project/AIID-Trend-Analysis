@@ -121,40 +121,34 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | BBC News  | 22  |
 | James Vincent  | 21  |
 | Reuters  | 20  |
+| Associated Press  | 19  |
+| Katyanna Quach  | 12  |
+| Andrew J. Hawkins  | 11  |
+| Tom Simonite  | 11  |
+| Fred Lambert  | 10  |
+| Kashmir Hill  | 10  |
+| Maggie Harrison  | 10  |
 
-![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/41927bc3-09bc-48d8-b283-b6ca273f1254)
+![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/381e46c4-9a37-4262-bc81-a69c7c062582)
 
-Now, we're taking a closer look at the insightful contributions of BBC News, Reuters, and James Vincent. BBC News has contributed 22 times, while Reuters has contributed 20 times. Since they are both News website, there may exist a lot of authors involving in corresponding AI incident reports. BBC News has a  relatively higher average VADER sentiment score (-0.248) than Reuters (-0.304). BBC News also has a higher average Subjectivity score (-0.143) than Reuters (-0.225). We are assuming BBC News is more sensational and subjective than Reuters. 
-
-Let's shine the spotlight on James Vincent, the maestro of AI incident reporting, with an impressive 21 contributions. James Vincent seems to have the most positive VADER sentiment score (0.189) and highest Subjectivity score (-0.131) among all, assuming he is most sensational and subjective authors in the AIID.
+![Picture2](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/13719951-600d-44fa-8c2f-1d58b57e8291)
 
 
-##### **Top 3 Clusters among Top 3 Contributing Authors**
-| Cluster Names  | Frequency |
-| ------------- | ------------- |
-| Cluster -1  | 15  |
-| Cluster 6  | 12  |
-| Cluster 40  | 4  |
-
-![Picture2](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/8152e790-8966-4faa-bc57-2ca13879da1b)
-
-Among these 3 authors, the most active clusters are -1, 6, and 40. Cluster -1 has the highest VADER sentiment score (0.621) and highest Subjectivity score (-0.106). Cluster 40 has the second highest VADER sentiment score (0.003) and second highest Subjectivity score (-0.177). Cluster 6 has the lowest VADER sentiment score (-0.411) and highest Subjectivity score (-0.250). Now we can take a closer look at what are the topic keywords within these 3 clusters. 
-
-##### **Top 10 Common Topic Keywords**
+##### **Top 10 Common Topic Keywords among Top 10 Authors**
 | Topic Keywords  | Frequency |
 | ------------- | ------------- |
-| ai, google, image  | 6  |
-| car, vehicle, drive  | 6  |
-| tesla, autopilot, driver  | 6  |
-| ai, model, chatgpt  | 4  |
-| ad, facebook, user  | 3  |
-| face, id, apple  | 3  |
-| facebook, content, user  | 3  |
-| facial, recognition, system  | 3  |
-| tay, search, google  | 3  |
-| ai, use, student  | 2  |
+| tesla, autopilot, driver  | 23  |
+| ai, google, image  | 10  |
+| car, vehicle, drive  | 10  |
+| ai, model, chatgpt  | 8  |
+| ai, use, student  | 8  |
+| use, recognition, facial  | 7  |
+| facebook, content, user  | 5  |
+| sport, arena, missile  | 4  |
+| robot, worker, google  | 4  |
+| ad, facebook, user   | 3  |
 
-Now, let's zoom in on clusters -1, 6, and 40, where the top 10 topic keywords offer a glimpse into the beating heart of AI discourse. BBC News, James Vincent, and Reuters are always contributing on AI trendy topics such as Tesla, AI Images, Face IDs, Chatgpt, social media content, and etcs. We gain invaluable insights into the most pressing trends shaping the AI industry today by reading their reports. 
+![Picture3](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/6c484f50-7c6c-4a7e-846e-5f7870033b76)
 
 ## Conclusion: Wrapping Up with Actionable Insights
 This project embarked on a comprehensive analysis of trends of of how sentiment in reporting has changed over time, leveraging a multifaceted approach rooted in natural language processing (NLP) techniques and machine learning models.
