@@ -85,6 +85,12 @@ In the landscape of AI reporting, several key sources have emerged, each with it
 
 **The Guardian (theguardian.com)**: Leading the pack with 122 incidents, The Guardian stands out as a go-to source for AI-related reporting. Its coverage spans a wide range of topics, from social media scandals to AI's impact on law enforcement, as indicated by its most active topic keywords, including "shotspotter," "debt," and "police."  
 In 2017, Australian Department of Human Services (DHS)’s automated debt assessment system issued false or incorrect debt notices to hundreds of thousands of people, resulting in years-long lawsuits and damages to welfare recipients.
+** Active Topic Keywords for Source: theguardian.com **
+| Topic Keywords        | Frequency | Subjectivity |
+|-----------------------|-----------|--------------|
+| shotspotter, debt, police | 21        | -0.23        |
+| facebook, content, user  | 7         | -0.14        |
+| ai, use, student         | 6         | -0.02        |
 
 **The Verge (theverge.com)**: With 82 incidents, The Verge is a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, it provides insightful commentary and analysis on AI trends and innovations. The prominence of keywords like "tesla," "autopilot," and "driver" indicates a focus on self-driving cars and related automotive AI technologies. These focus on the developments in autonomous driving technology also suggest discussions on the capabilities and limitations of autonomous driving systems.  
 For instance, A Tesla Model S with the Autopilot system activated was involved in a fatal crash, the first known fatality in a Tesla where Autopilot was active. 
@@ -109,13 +115,8 @@ In cluster 6, the discussions revolve around self-driving cars, particularly Tes
  
 Cluster 46 delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections. The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
 
-** Active Topic Keywords for Source: theguardian.com **
-|   |      Topic Keywords       | Frequency |  Subjectivity      |
-+---+---------------------------+-----------+--------------------+
- shotspotter, debt, police |    21     |  -0.23             |
- facebook, content, user  |     7     |  -0.14             |
- ai, use, student      |     6     |  -0.02             |
-  
+
+
 
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
