@@ -80,10 +80,10 @@ by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington Univer
 
 ### Media Trend Analysis
 The provided data highlights the top prominent domain sources for incidents related to AI discourse.
- Leading the discourse with 122 incidents, The Guardian stands out as a prominent source for AI-related reporting. Renowned for its comprehensive coverage and analytical approach, The Guardian provides a wealth of information on AI developments. The Verge emerges as a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, The Verge offers insightful commentary and analysis on AI trends and innovations.
 
 ![News](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/7885ea3d-9506-4f56-b0ff-c1eb696b92de)
 
+**The Guardian**: Leading with 122 incidents, The Guardian is a prominent source for AI-related reporting. Renowned for comprehensive coverage and analytical approach, it offers a wealth of information on AI developments
 Holding steady with 78 incidents, The New York Times maintains its reputation as a leading source of in-depth journalism. Leveraging its extensive network of reporters and resources, The Times delivers comprehensive coverage of AI issues. With 60 incidents,washingtonpost.com is known for its investigative journalism and thoughtful analysis, The Post provides valuable insights into the societal impact of AI.  Rounding out the top five with 55 incidents, Wired showcases its expertise in tech reporting. Renowned for its insightful commentary and engaging narratives, Wired offers readers a deeper understanding of the AI landscape.
 
 The most three active clusters are lighting up the AI universe like a digital bonfire!
