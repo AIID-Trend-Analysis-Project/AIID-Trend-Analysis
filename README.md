@@ -136,8 +136,7 @@ A real-time example in 2016 where Google image searches of "three black teenager
 | ai, use, student      | 4         | -0.12                |
 | algorithm, use, data  | 4         | -0.27                |  
 
-Here's a case where a 17-year-old student in Hollister, North Carolina was hit by a 2022 Tesla Model Y allegedly operating on Autopilot mode, suffering a fractured neck and a broken leg.
-
+Twitter's photo cropping algorithm was revealed by researchers to favor white and women faces in photos containing multiple faces, prompting the company to stop its use on mobile platform.
 
 Cluster -1 primarily focuses on social media scandals, such as issues with Facebook's market or the emergence of AI-generated fake images. Despite the sensational topics, the sentiment here tends to be neutral, indicating that the reporting is more about presenting facts rather than taking sides. Most of the articles in this cluster are sourced from theguardian.com. Cluster -1 remains a captivating glimpse into the intersection of AI and human drama. Despite the sensational nature of social media scandals, media reporting tends to maintain a neutral stance, focusing on factual presentation rather than opinion.
 
