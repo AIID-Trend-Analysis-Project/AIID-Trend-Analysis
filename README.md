@@ -146,10 +146,10 @@ A case in 2016 where Google image searches of "three black teenagers" resulted i
 
 "algorithm, use, data" with an average subjectivity of -0.27 is more objective and "ai, use, student" is more subjective with a score of -0.12.  
 
-Twitter's photo cropping algorithm was revealed by researchers to favor white and women faces in photos containing multiple faces, prompting the company to stop its use on mobile platform.
+Twitter's photo cropping algorithm was revealed by researchers to favor white and women faces in photos containing multiple faces, prompting the company to stop its use on mobile platform.   
 
-
-In exploration of these sources, here are the intriguing insights into the **overall subjectivity levels** and **cluster activity** across different source domains. 
+### Subjectivity Trend
+In exploration of these sources, here are the intriguing insights into the overall subjectivity levels and cluster activity across different source domains. 
 | Source             | Subjectivity Level | Clusters Activity             |
 |--------------------|--------------------|-------------------------------|
 | The Guardian       | -0.17              | Clusters -1, 9, 6            |
