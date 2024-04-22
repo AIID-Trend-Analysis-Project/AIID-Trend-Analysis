@@ -150,22 +150,24 @@ In exploration of these sources, here are the intriguing insights into the overa
 Among these clusters, -1, 6, and 46 emerge as the most active across the sources.
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/f676e958-623d-4720-9ac0-e31fa45e090e)
 
+- **Cluster -1**:
+  - Focuses primarily on social media scandals, such as issues with Facebook's market or the emergence of AI-generated fake images.
+  - The subjectivity score for this cluster is -0.12, indicating a slightly subjective stance in reporting.
+  - The overall sentiment score is -0.52, indicating a predominantly negative opinion.
+  - Most articles in this cluster are sourced from The Guardian, offering a captivating glimpse into the intersection of AI and human drama.
 
-**Cluster -1**:
-*Focuses primarily on social media scandals, such as issues with Facebook's market or the emergence of AI-generated fake images.
-*The subjectivity score for this cluster is -0.12, indicating a slightly subjective stance in reporting.
-*These sensational topics has an overall negative sentiment of -0.52, indicating personal negative opinion for people.
-*Most articles in this cluster are sourced from The Guardian, offering a captivating glimpse into the intersection of AI and human drama.
-**Cluster 6**:
-*Revolves around discussions on self-driving cars, particularly Teslas, and related automotive AI technologies like autopilot.
-*The subjectivity score for this cluster is -0.17, suggesting a moderately objective stance with a slight leaning towards objectivity.
-*The sentiment score is 0.12, indicating that the sentiment here tends to be neutral where the reporting is more about presenting facts rather than taking sides.
-*Media reporting tends to be critical or skeptical, reflecting concerns about safety and reliability about the readiness of self-driving cars for widespread adoption.
-**Cluster 46**:
-*Delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections.
-*The subjectivity score for this cluster is -0.13, indicating a relatively objective perspective with a slight leaning towards objectivity.
-*The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical. 
-*Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy. 
+- **Cluster 6**:
+  - Revolves around discussions on self-driving cars, particularly Teslas, and related automotive AI technologies like autopilot.
+  - The subjectivity score for this cluster is -0.17, suggesting a moderately objective stance with a slight leaning towards objectivity.
+  - The sentiment score is 0.12, indicating a neutral sentiment where the reporting focuses on presenting facts rather than taking sides.
+  - Media reporting tends to be critical or skeptical, reflecting concerns about safety and reliability regarding the readiness of self-driving cars for widespread adoption.
+
+- **Cluster 46**:
+  - Delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections.
+  - The subjectivity score for this cluster is -0.13, indicating a relatively objective perspective with a slight leaning towards objectivity.
+  - The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical.
+  - Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
+
 ![Picture3](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/732546d3-af38-4d58-a1bf-f810c960e4c9)
  
 Cluster 46 delves into discussions about voice-controlled AI gadgets, chatbots, and the influence of YouTube videos on elections. The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical. Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment could indicate skepticism or concerns about their efficacy.
