@@ -93,7 +93,7 @@ In the landscape of AI reporting, several key sources have emerged, each with it
 
 In 2017, Australian Department of Human Services (DHS)’s automated debt assessment system issued false or incorrect debt notices to hundreds of thousands of people, resulting in years-long lawsuits and damages to welfare recipients.
 
-**The Verge (theverge.com)**: With 82 incidents, The Verge is a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, it provides insightful commentary and analysis on AI trends and innovations. The prominence of keywords like "tesla," "autopilot," and "driver" indicates a focus on self-driving cars and related automotive AI technologies. These focus on the developments in autonomous driving technology also suggest discussions on the capabilities and limitations of autonomous driving systems. 
+**The Verge (theverge.com)**: With 82 incidents, The Verge is a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, it provides insightful commentary and analysis on AI trends and innovations. The prominence of keywords like "tesla," "autopilot," and "driver" indicates a focus on self-driving cars and related automotive AI technologies. These focus on the developments in autonomous driving technology also suggest discussions on the capabilities and limitations of autonomous driving systems.   
 **Active Topic Keywords for Source: theverge.com**
 |   Topic Keywords          | Frequency | Subjectivity |
 |---------------------------|-----------|--------------|
@@ -103,7 +103,7 @@ In 2017, Australian Department of Human Services (DHS)’s automated debt assess
 
 For instance, A Tesla Model S with the Autopilot system activated was involved in a fatal crash, the first known fatality in a Tesla where Autopilot was active. 
 
-**The New York Times (nytimes.com)**: Holding steady with 78 incidents, The New York Times maintains its reputation as a leading source of in-depth journalism. Leveraging its extensive network of reporters, it delivers comprehensive coverage of AI issues. "Ai," "use," and "student" indicate broader coverage of AI's applications and implications across different domains, including education and technology. These keywords represent discussions on AI's integration into educational settings and its implications for students and educators. "Use," "recognition," and "facial" indicate coverage of biometrics and fake facial recognition technology, focusing on AI's role in identity verification and security.  
+**The New York Times (nytimes.com)**: Holding steady with 78 incidents, The New York Times maintains its reputation as a leading source of in-depth journalism. Leveraging its extensive network of reporters, it delivers comprehensive coverage of AI issues. "Ai," "use," and "student" indicate broader coverage of AI's applications and implications across different domains, including education and technology. These keywords represent discussions on AI's integration into educational settings and its implications for students and educators. "Use," "recognition," and "facial" indicate coverage of biometrics and fake facial recognition technology, focusing on AI's role in identity verification and security.    
 **Active Topic Keywords for Source: nytimes.com**
 | Topic Keywords          | Frequency | Subjectivity |
 |-------------------------|-----------|--------------|
@@ -113,7 +113,7 @@ For instance, A Tesla Model S with the Autopilot system activated was involved i
 
 An incident in California, where students allegedly used AI to generate fake nude photos with their classmates' faces, prompting investigations by school officials and the police. The incident highlights the increasing misuse of generative AI among minors.
 
-**The Washington Post (washingtonpost.com)**: With 60 incidents, washingtonpost.com stands out for its investigative journalism and thoughtful analysis of AI-related topics. Renowned for its insightful commentary, The Washington Post offers readers valuable perspectives on the societal implications of AI advancements. Keywords like "ai," "google," and "image" suggest discussions on AI's role in image processing and false recognition, particularly focusing in the context of Google's AI. 
+**The Washington Post (washingtonpost.com)**: With 60 incidents, washingtonpost.com stands out for its investigative journalism and thoughtful analysis of AI-related topics. Renowned for its insightful commentary, The Washington Post offers readers valuable perspectives on the societal implications of AI advancements. Keywords like "ai," "google," and "image" suggest discussions on AI's role in image processing and false recognition, particularly focusing in the context of Google's AI.     
 **Active Topic Keywords for Source: washingtonpost.com**
 | Topic Keywords          | Frequency | Subjectivity |
 |-------------------------|-----------|--------------|
@@ -123,7 +123,7 @@ An incident in California, where students allegedly used AI to generate fake nud
 
 A real-time example in 2016 where Google image searches of "three black teenagers" resulted in mostly mugshot images whereas Google image searchers of "three white teenagers" consisted of mostly stock images, suggesting a racial bias in Google's algorithm. Thus, it indicates the poor coverage of visual data processing and technology. 
 
-**Wired (wired.com)**: Rounding out the top five with 55 incidents, Wired showcases expertise in tech reporting. Renowned for insightful commentary and engaging narratives, it offers a deeper understanding of the AI landscape. Its coverage includes discussions on topics like vehicle automation and algorithmic data analysis.The presence of keywords like "car," "vehicle," and "drive" suggests that Wired focuses on automotive technologies, particularly self-driving cars and their development. These keywords likely represent discussions on the latest advancements in autonomous driving technology, as well as the challenges and opportunities associated with integrating AI into vehicles.  
+**Wired (wired.com)**: Rounding out the top five with 55 incidents, Wired showcases expertise in tech reporting. Renowned for insightful commentary and engaging narratives, it offers a deeper understanding of the AI landscape. Its coverage includes discussions on topics like vehicle automation and algorithmic data analysis.The presence of keywords like "car," "vehicle," and "drive" suggests that Wired focuses on automotive technologies, particularly self-driving cars and their development. These keywords likely represent discussions on the latest advancements in autonomous driving technology, as well as the challenges and opportunities associated with integrating AI into vehicles.        
 **Active Topic Keywords for Source: wired.com**
 | Topic Keywords        | Frequency | Average Subjectivity |
 |-----------------------|-----------|----------------------|
