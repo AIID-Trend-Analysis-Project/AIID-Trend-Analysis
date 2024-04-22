@@ -150,7 +150,7 @@ In exploration of these sources, here are the intriguing insights into the overa
 ### Most Objective
  **The Guardian and The Washington Post:** The Guardian and The Washington Post are considered the most objective among the top 5 Sources as they both have the lowest subjectivity level (-0.17). The Washington Post tends to engage more with clusters such as 54 and 46 and The Guardian Post engages more with 9 and 6, which are often associated with factual reporting, suggests a focus on objective content.
 
-![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/237b2e69-f1df-49b8-a1e7-9c69d4a4d731)
+![Graph](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/f6e62a54-a9e1-4fb2-8677-1d08883c147e)
 
 ### Most Subjective
  **Wired:** Wired appears to be the most subjective with a subjectivity level of -0.13, indicating a slightly higher subjectivity compared to other sources. Its engagement with clusters -1, 6, and 48 suggests a  more opinionated or subjective content.
