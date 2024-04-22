@@ -83,7 +83,7 @@ In the landscape of AI reporting, several key sources have emerged, each with it
 
 ![News](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/7885ea3d-9506-4f56-b0ff-c1eb696b92de)
 
-**The Guardian (theguardian.com)**: Leading the pack with 122 incidents, The Guardian stands out as a go-to source for AI-related reporting. Its coverage spans a wide range of topics, from social media scandals to AI's impact on law enforcement, as indicated by its most active topic keywords, including "shotspotter," "debt," and "police."  
+**The Guardian (theguardian.com)**: Leading the pack with 122 incidents, The Guardian coverage spans a wide range of topics, from social media scandals to AI's impact on law enforcement, as indicated by its most active topic keywords, including "shotspotter," "debt," and "police."  
 
 **Active Topic Keywords for Source: theguardian.com**
 | Topic Keywords        | Frequency | Subjectivity |
@@ -144,9 +144,10 @@ A case in 2016 where Google image searches of "three black teenagers" resulted i
 | ai, use, student      | 4         | -0.12                |
 | algorithm, use, data  | 4         | -0.27                |  
 
-"algorithm, use, data" with an average subjectivity of -0.27 is more objective and "ai, use, student" is more subjective with a score of -0.12
+"algorithm, use, data" with an average subjectivity of -0.27 is more objective and "ai, use, student" is more subjective with a score of -0.12.  
 
 Twitter's photo cropping algorithm was revealed by researchers to favor white and women faces in photos containing multiple faces, prompting the company to stop its use on mobile platform.
+
 
 In exploration of these sources, here are the intriguing insights into the **overall subjectivity levels** and **cluster activity** across different source domains. 
 | Source             | Subjectivity Level | Clusters Activity             |
