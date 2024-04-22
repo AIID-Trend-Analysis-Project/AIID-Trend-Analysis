@@ -118,7 +118,7 @@ For instance, A Tesla Model S with the Autopilot system activated was involved i
 | use, recognition, facial| 7         | -0.30        |
 | tesla, autopilot, driver| 6         | -0.20        |  
 
-"ai, use, student" with a subjectivity score of -0.12 is more subjective. "use, recognition, facial" with a subjectivity score of -0.30 is relatively more objective implying discussions on the technical aspects of facial recognition technology, its usage in various contexts, and the associated challenges, leading to a more objective tone in reporting more factually
+"ai, use, student" with a subjectivity score of -0.12 is more subjective, being more sensational. "use, recognition, facial" with a subjectivity score of -0.30 is relatively more objective implying discussions on the technical aspects of facial recognition technology, its usage in various contexts, and the associated challenges, leading to a more objective tone in reporting more factually
 
 An incident in California, where students allegedly used AI to generate fake nude photos with their classmates' faces, prompting investigations by school officials and the police. The incident highlights the increasing misuse of generative AI among minors.
 
@@ -131,7 +131,7 @@ An incident in California, where students allegedly used AI to generate fake nud
 | ai, use, student        | 5         | -0.14        |
 | tesla, autopilot, driver| 5         | -0.24        |  
 
-"ai, google, image" with a subjectivity score of -0.08 is more subjective. This suggests that the coverage may involve more opinions, interpretations, or emotional language. "tesla, autopilot, driver" with a subjectivity score of -0.24 is relatively more objective. 
+"ai, google, image" with a subjectivity score of -0.08 is more subjective and sensational. This suggests that the coverage may involve more opinions, interpretations, or emotional language. "tesla, autopilot, driver" with a subjectivity score of -0.24 is relatively more objective. 
 
 A case in 2016 where Google image searches of "three black teenagers" resulted in mostly mugshot images whereas Google image searchers of "three white teenagers" consisted of mostly stock images, suggesting a racial bias in Google's algorithm. Thus, it indicates the poor coverage of visual data processing and technology. 
 
