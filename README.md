@@ -105,6 +105,8 @@ In 2017, Australian Department of Human Services (DHS)’s automated debt assess
 | ai, use, student          | 6         | -0.06        |
 | car, vehicle, drive       | 6         | -0.11        |  
 
+The topic "ai, use, student" with a subjectivity score of -0.06 likely embodies a subjective tone due to the ethical and privacy implications associated with the use of artificial intelligence (AI) in the context of student data and privacy. The most objective is "tesla, autopilot, driver," with a subjectivity score of -0.18. This suggests a more factual and impartial presentation of information, likely focusing on events or developments related to Tesla's autopilot system and its impact on driving.
+
 For instance, A Tesla Model S with the Autopilot system activated was involved in a fatal crash, the first known fatality in a Tesla where Autopilot was active. 
 
 **The New York Times (nytimes.com)**: Holding steady with 78 incidents, The New York Times maintains its reputation as a leading source of in-depth journalism. Leveraging its extensive network of reporters, it delivers comprehensive coverage of AI issues. "Ai," "use," and "student" indicate broader coverage of AI's applications and implications across different domains, including education and technology. These keywords represent discussions on AI's integration into educational settings and its implications for students and educators. "Use," "recognition," and "facial" indicate coverage of biometrics and fake facial recognition technology, focusing on AI's role in identity verification and security.    
@@ -115,6 +117,8 @@ For instance, A Tesla Model S with the Autopilot system activated was involved i
 | ai, use, student        | 11        | -0.12        |
 | use, recognition, facial| 7         | -0.30        |
 | tesla, autopilot, driver| 6         | -0.20        |  
+
+"ai, use, student" with a subjectivity score of -0.12 is more subjective. "use, recognition, facial" with a subjectivity score of -0.30 is relatively more objective implying discussions on the technical aspects of facial recognition technology, its usage in various contexts, and the associated challenges, leading to a more objective tone in reporting more factually
 
 An incident in California, where students allegedly used AI to generate fake nude photos with their classmates' faces, prompting investigations by school officials and the police. The incident highlights the increasing misuse of generative AI among minors.
 
@@ -127,7 +131,9 @@ An incident in California, where students allegedly used AI to generate fake nud
 | ai, use, student        | 5         | -0.14        |
 | tesla, autopilot, driver| 5         | -0.24        |  
 
-A real-time example in 2016 where Google image searches of "three black teenagers" resulted in mostly mugshot images whereas Google image searchers of "three white teenagers" consisted of mostly stock images, suggesting a racial bias in Google's algorithm. Thus, it indicates the poor coverage of visual data processing and technology. 
+"ai, google, image" with a subjectivity score of -0.08 is more subjective. This suggests that the coverage may involve more opinions, interpretations, or emotional language. "tesla, autopilot, driver" with a subjectivity score of -0.24 is relatively more objective. 
+
+A case in 2016 where Google image searches of "three black teenagers" resulted in mostly mugshot images whereas Google image searchers of "three white teenagers" consisted of mostly stock images, suggesting a racial bias in Google's algorithm. Thus, it indicates the poor coverage of visual data processing and technology. 
 
 **Wired (wired.com)**: Rounding out the top five with 55 incidents, Wired showcases expertise in tech reporting. Renowned for insightful commentary and engaging narratives, it offers a deeper understanding of the AI landscape. Its coverage includes discussions on topics like vehicle automation and algorithmic data analysis.The presence of keywords like "car," "vehicle," and "drive" suggests that Wired focuses on automotive technologies, particularly self-driving cars and their development. These keywords likely represent discussions on the latest advancements in autonomous driving technology, as well as the challenges and opportunities associated with integrating AI into vehicles.        
 
@@ -137,6 +143,8 @@ A real-time example in 2016 where Google image searches of "three black teenager
 | car, vehicle, drive   | 5         | -0.15                |
 | ai, use, student      | 4         | -0.12                |
 | algorithm, use, data  | 4         | -0.27                |  
+
+"algorithm, use, data" with an average subjectivity of -0.27 is more objective and "ai, use, student" is more subjective with a score of -0.12
 
 Twitter's photo cropping algorithm was revealed by researchers to favor white and women faces in photos containing multiple faces, prompting the company to stop its use on mobile platform.
 
