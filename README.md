@@ -141,14 +141,14 @@ A case in 2016 where Google image searches of "three black teenagers" resulted i
 | Topic Keywords        | Frequency | Average Subjectivity |
 |-----------------------|-----------|----------------------|
 | car, vehicle, drive   | 5         | -0.15                |
-| ai, use, student      | 4         | -0.12                |
-| algorithm, use, data  | 4         | -0.27                |  
+| ai, use, student      | 4         | <span style="color: yellow">-0.12</span>                 |
+| algorithm, use, data  | 4         | <span style="color: green">-0.27</span>                 |  
 
 "algorithm, use, data" with an average subjectivity of -0.27 is more objective and "ai, use, student" is more subjective with a score of -0.12
 
 Twitter's photo cropping algorithm was revealed by researchers to favor white and women faces in photos containing multiple faces, prompting the company to stop its use on mobile platform.
 
-In exploration of these sources, here are the intriguing insights into the overall subjectivity levels and cluster activity across different domains. 
+In exploration of these sources, here are the intriguing insights into the **overall subjectivity levels** and **cluster activity** across different source domains. 
 | Source             | Subjectivity Level | Clusters Activity             |
 |--------------------|--------------------|-------------------------------|
 | The Guardian       | -0.17              | Clusters -1, 9, 6            |
