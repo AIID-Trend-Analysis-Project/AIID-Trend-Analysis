@@ -92,6 +92,8 @@ In the landscape of AI reporting, several key sources have emerged, each with it
 | facebook, content, user  | 7         | -0.14        |
 | ai, use, student         | 6         | -0.02        |  
 
+The Guardian's reporting on AI-related issues spans a range of subjectivity. Topics like "shotspotter, debt, police" are approached objectively, with a subjectivity score of -0.23, indicating a predominantly factual presentation. Conversely, keywords like "ai, use, student" score -0.02, suggesting a slightly more subjective tone including some subjective elements or interpretations alongside factual information. This variation in subjectivity may reflect different reporting styles or the complexity of the topics being covered.
+
 In 2017, Australian Department of Human Services (DHS)’s automated debt assessment system issued false or incorrect debt notices to hundreds of thousands of people, resulting in years-long lawsuits and damages to welfare recipients.
 
 **The Verge (theverge.com)**: With 82 incidents, The Verge is a significant contributor to AI discourse. Recognized for its authoritative voice in the tech community, it provides insightful commentary and analysis on AI trends and innovations. The prominence of keywords like "tesla," "autopilot," and "driver" indicates a focus on self-driving cars and related automotive AI technologies. These focus on the developments in autonomous driving technology also suggest discussions on the capabilities and limitations of autonomous driving systems.  
