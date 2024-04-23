@@ -209,9 +209,15 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | Kashmir Hill  | 10  |
 | Maggie Harrison  | 10  |
 
+* Among the top 10 prominent authors, there are 3 news agencies and 7 individual authors. 
+
 ![Picture1](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/381e46c4-9a37-4262-bc81-a69c7c062582)
 
+* BBC News, Associated Press, and Reuters are the top 3 news agencies. By comparing their average subjectivity score, we can observe that BBC News is the most subjective news agency (-0.14), Reuters is the most objective news agency (-0.23), and Associated Press is in the middle with a subjectivity score of -0.19. 
+
 ![Picture2](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/13719951-600d-44fa-8c2f-1d58b57e8291)
+
+* By looking at the top 7 individual authors average subjectivity score, we can conclude that Maggie Harrison is the most subjective author (-0.09), and Tom Simonite is the most objective author (-0.17). 
 
 
 ##### **Top 10 Common Topic Keywords among Top 10 Authors**
@@ -228,7 +234,11 @@ In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" d
 | robot, worker, google  | 4  |
 | ad, facebook, user   | 3  |
 
+* Among the top 10 prominent authors, there are top 10 common topic keywords that they are generally focusing on which they talked about “Tesla, autopilot, driver” for 23 times. 
+
 ![Picture3](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159200995/6c484f50-7c6c-4a7e-846e-5f7870033b76)
+
+* When these top 10 prominent authors talk about “ai, model, chatgpt”, they tend to be the most subjective (subjectivity score of -0.06). When they are talking about “robot, worker, google”, they tend to be the most objective (subjectivity score of -0.32).
 
 ## Conclusion: Wrapping Up with Actionable Insights
 This project embarked on a comprehensive analysis of trends of of how sentiment in reporting has changed over time, leveraging a multifaceted approach rooted in natural language processing (NLP) techniques and machine learning models.
@@ -419,7 +429,8 @@ The limitation of VADER is that the method only focuses on individual words and 
 Textblob sentiment analyzer returns two properties for a given input sentence: 
   **Polarity** is a float that lies between [-1,1], -1 indicates negative sentiment and +1 indicates positive sentiments. 
   **Subjectivity** is a float which lies in the range of [0,1]. Closer to 1 means the most subjective while closer to 0 means the most objective. Subjective sentences generally refer to personal opinion, emotion, or judgment. 
-The limitation of TextBlob is that it will only consider words and phrases that it can assign polarity to and averages to get the final score, ignoring the words that it doesn’t know.
+The limitation of TextBlob is that it will only consider words and phrases that it can assign polarity to and averages to get the final score, ignoring the words that it doesn’t know. We rescale the original range [0,1] into -1 to 1 for better interpretability. The closer to 1 means more subjective, closer to -1 means more objective. 
+
 
 
 * References and Further Reading: articles and reports we read and took inspiration from - [Literature Reviews on Media Biases](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/blob/89e6f5484b7d635843586eb6cb35bc4a0b676bf5/Literature%20Reviews%20on%20Media%20Biases.pdf)
