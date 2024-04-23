@@ -83,7 +83,7 @@ In the landscape of AI reporting, several key sources have emerged, each with it
 
 ![News](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/7885ea3d-9506-4f56-b0ff-c1eb696b92de)
 
-- **The Guardian (theguardian.com)**: Leading the pack with 122 incidents, The Guardian coverage spans a wide range of topics, from social media scandals to AI's impact on law enforcement, as indicated by its most active topic keywords, including "shotspotter," "debt," and "police."  
+**The Guardian (theguardian.com)**: Leading the pack with 122 incidents, The Guardian coverage spans a wide range of topics, from social media scandals to AI's impact on law enforcement, as indicated by its most active topic keywords, including "shotspotter," "debt," and "police."  
 
 **Active Topic Keywords for Source: theguardian.com**
 | Topic Keywords        | Frequency | Subjectivity |
