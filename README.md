@@ -166,8 +166,6 @@ In exploration of these sources, here are the intriguing insights into the overa
 **Most Subjective**  
 **Wired:** Wired appears to be the most subjective with a subjectivity level of -0.13, indicating a slightly higher subjectivity compared to other sources. Its engagement with clusters -1, 6, and 48 suggests a  more opinionated or subjective content.
 
-**Neutral**     
-**The Verge:** The Verge is perceived as the neutral among the sources listed, with a subjectivity level of -0.15. Its involvement with clusters -1 and 6, suggests a balanced mix of objective and subjective content since it is being regarded as close to 0.
 
 Among these clusters, -1, 6, and 46 emerge as the most active across the sources and -1 Cluster is the cluster associated with all the sources.
 ![Three clusters](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/f676e958-623d-4720-9ac0-e31fa45e090e)
