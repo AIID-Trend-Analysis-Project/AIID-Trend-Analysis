@@ -251,11 +251,18 @@ Understanding sentiment patterns and media discourse surrounding AI is crucial f
 
 2. The topics using LDA ranged from physical AI incidents like autonomous vehicles to digital issues such as deepfakes and misinformation bots, reflecting the diverse landscape of AI journalism.
 
-3. Clusters related to social media scandals, self-driving cars, and voice-controlled AI gadgets emerged as prominent themes, each with its unique sentiment and focus.
+3. Clusters related to social media scandals, self-driving cars, and voice-controlled AI gadgets emerged as prominent themes, each with its unique sentiment, subjectivity and focus.
+  
+4. The top media domains contributing to AI reporting included theguardian.com, theverge.com, nytimes.com, washingtonpost.com, and wired.com and by prominent indivuals: BBC News, James Vincent, and Reuters majorly revolved around Keywords such as "Tesla," "autopilot," "AI images," "ChatGPT," and "face IDs", reflecting key topics driving media coverage of AI incidents.
 
-4. Sentiment analysis using TextBlob and VADER unveiled fluctuations in the emotional tone of AI reporting across different clusters. While some clusters maintained a neutral sentiment, particularly those addressing social media scandals, others, such as those concerning self-driving cars and digital issues, exhibited more negative sentiment. This negativity suggests a level of skepticism or concern, particularly regarding the safety and reliability of autonomous vehicles. Interestingly, despite the sensational nature of social media scandals, media reporting tended to remain neutral, prioritizing factual presentation over opinion. These findings underscore the nuanced nature of public perception surrounding AI-related incidents and highlight the importance of considering emotional context in media analysis.
+5. The Guardian and The Washington Post are found to be the most objective among the top 5 sources, with subjectivity levels of -0.17.
+Wired appears to be the most subjective among the top sources, with a subjectivity level of -0.13.Among the top individual authors, Maggie Harrison is the most subjective (-0.09), while Tom Simonite is the most objective (-0.17).
 
-5. The top media domains contributing to AI reporting included theguardian.com, theverge.com, nytimes.com, washingtonpost.com, and wired.com and by prominent indivuals: BBC News, James Vincent, and Reuters majorly revolved around Keywords such as "Tesla," "autopilot," "AI images," "ChatGPT," and "face IDs", reflecting key topics driving media coverage of AI incidents.
+6. "Tesla, autopilot, driver" is the most common topic keyword among the top authors, reflecting a significant focus on autonomous driving technology.
+Discussions on "ai, model, chatgpt" tend to be more subjective, while those on "robot, worker, google" are more objective.
+
+7. Sentiment analysis using TextBlob and VADER unveiled fluctuations in the emotional tone of AI reporting across different clusters. While some clusters maintained a neutral sentiment, particularly those addressing social media scandals, others, such as those concerning self-driving cars and digital issues, exhibited more negative sentiment. This negativity suggests a level of skepticism or concern, particularly regarding the safety and reliability of autonomous vehicles. Interestingly, despite the sensational nature of social media scandals, media reporting tended to remain neutral, prioritizing factual presentation over opinion. These findings underscore the nuanced nature of public perception surrounding AI-related incidents and highlight the importance of considering emotional context in media analysis.
+
 
 ### Call to Action: 
 As the next step, we suggest the AIID create some simple human metrics when submitting articles.
