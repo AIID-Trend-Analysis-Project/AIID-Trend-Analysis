@@ -188,7 +188,7 @@ Among these clusters, -1, 6, and 46 emerge as the most active across the sources
   - The sentiment here varies, with some expressing excitement about the possibilities of these technologies while others are more skeptical.
   - Positive sentiment may reflect excitement about the possibilities of voice-controlled AI gadgets, while negative sentiment and negative sensationalism indicates skepticism or concerns about their efficacy.
 
-        ![Screenshot 2024-04-26 120241](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/cccf5d96-ab81-4c32-a04c-29a933681a22)
+      ![Screenshot 2024-04-26 120241](https://github.com/AIID-Trend-Analysis-Project/AIID-Trend-Analysis/assets/159202579/cccf5d96-ab81-4c32-a04c-29a933681a22)
  
 In the dynamic world of AI, key topics like "Tesla," "autopilot," and "driver" dominate discussions, reflecting the automotive industry's evolution. Alongside, debates around "ai," "use," and "student" highlight AI's integration in education, while "ai," "google," and "image" spark conversations on visual data processing. From "use," "recognition," and "facial" in biometrics to "facebook," "content," and "user" in social media dynamics and "shotspotter," "debt," and "police" delving into the intersection of AI and law enforcement, each keyword offers a glimpse into AI's diverse impact on society, shaping dialogues on safety, education, and digital interaction. As the conversation unfolds, these topics continue to shape the future of technology and society, driving us towards new horizons of possibility and discovery.
 
