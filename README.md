@@ -1,6 +1,6 @@
 # Trends within AI Journalism: An algorithmic analysis of how reporting has changed over time
 
-by Steven Shen, Yuxuan Chen, Shyam Sivasubramanian from George Washington University
+by Steven Shen, Sherry Chen, Shyam Sivasubramanian from George Washington University
 
 ## Introduction
 
@@ -442,4 +442,4 @@ The limitation of TextBlob is that it will only consider words and phrases that 
 
 ## Contact Information
 
-by Steven Shen (stevenshen2000@gmail.com), Yuxuan Chen (yuxuan.chen@gwu.edu), Shyam Sivasubramanian (shyam.sivasubramanian@gwu.edu)
+by Steven Shen (stevenshen2000@gmail.com), Sherry Chen (yuxuan.chen@gwu.edu), Shyam Sivasubramanian (shyam.sivasubramanian@gwu.edu)
